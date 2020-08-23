@@ -10,7 +10,6 @@ a) Email Spam Filter: Built a filter after training data (reading, cleaning, fea
 
 b) Food Safety: Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
-
 2) CompSci 61B (Data Structures)
 
 
