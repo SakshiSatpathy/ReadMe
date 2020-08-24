@@ -1,7 +1,7 @@
 # ReadMe
 Computer Science Projects' Description
 
-This Github has private code from homework, labs and projects from the following classes taken at UC Berkeley: Compsci C100 (Principles and Techniques of Data Science), CompSci 61B (Data Structures), CompSci 61A (Structure and Interpretation of Computer Programs). 
+This Github (SakshiSatpathy) has private code from homework, labs and projects from the following classes taken at UC Berkeley: Compsci C100 (Principles and Techniques of Data Science), CompSci 61B (Data Structures), CompSci 61A (Structure and Interpretation of Computer Programs). 
 
 Selected Projects:
 
