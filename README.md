@@ -33,4 +33,16 @@ CATS (CS61A AutoCorrected Typing Software): Wrote program measuring typing speed
 Hog: Developed a simulator and multiple strategies for the two-player dice game Hog. Helper functions implemented included applications of special rules like pig out, free bacon, feral hog, swine swap, and functions to simulate taking turns till the fastest player gets to the max score of 100 based on helper functions for score-maximizing strategies (highest average turn score). Commentary functions implemented also announced the players’ score after each turn, the lead score changes when applicable, and when a certain player’s score increases the highest during a specific game. Used higher-order functions and control statements, along with various applications of print, lambda, function calls and casting. 
 
 
+Economics Projects' Description
+
+This Github (SakshiSatpathy) has private code from homework, and projects from the following classes taken at UC Berkeley: Econ 140 (Economic Statistics and Econometrics), and Statistics 20 (Introduction to Probability and Statistics):
+
+Selected Projects:
+
+IMPACT OF INTERNET ACCESS, RESTAURANT WORKERS, AND SENIOR CITIZENS ON EARLY COVID-19 RATES: evaluated the impact of internet access, magnitude of the service industry, and old age on early COVID-19 rates in the US. Decided on a Multiple Linear Regression (MLR) model to jointly capture the impact of the natural log of all three variables on the log of proportion of COVID-19 cases in April 2020. The model was correctly specified after testing various relationships between the variables, ensuring roughly homoskedastic data, the expected error of our model being 0, with no perfect collinearity, and with attempt to introduce effective instrumental variables to reduce correlation between the variables and error term. 
+
+COVID-19 Pandemic Effects on Economy, Society, & Environment: In regards to the economy, examined the housing market and change in rent prices. To analyze societal impacts, looked at many different characteristics such as the effectiveness of health insurances when many people require it at once, the effectiveness of lock-downs on controlling the spread of the virus, the negative side-effects of lockdowns such as depression, and how the lack of travel and mobility from the pandemic
+has affected our environment. Used various statiscal inferences to detemine our conclusions on the pandemic, such as the hypothesis testing and regression.
+
+
 For viewing this code, please send me requests at sakshi.satpathy@berkeley.edu so that I know you are not a student in the class. 
