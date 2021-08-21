@@ -1,7 +1,13 @@
 # ReadMe
 (A) Computer Science Projects' Description
 
-This Github (SakshiSatpathy) has private code from homework, labs and projects from the following classes taken at UC Berkeley: Compsci C100 (Principles and Techniques of Data Science), EECS 126 (Probability and Random Processes), CompSci 61B (Data Structures), CompSci 61A (Structure and Interpretation of Computer Programs). 
+This Github (SakshiSatpathy) has private code from homework, labs and projects from the following classes taken at UC Berkeley: 
+1) Compsci C100 (Principles and Techniques of Data Science), 
+2) EECS 126 (Probability and Random Processes), 
+3) EECS 127 (Optimization Models in Engineering)
+4) CS 160 (User Interface Design and Development)
+5) CompSci 61B (Data Structures), 
+6) CompSci 61A (Structure and Interpretation of Computer Programs). 
 
 Selected Projects:
 
@@ -11,7 +17,24 @@ Selected Projects:
 
 (b) Food Safety: Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
-2) CompSci 61B (Data Structures)
+2) EECS 126 Labs
+
+
+4) EECS 127 HW
+
+
+5) CS 160 Projects
+
+Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
+
+Repartee: Designed and built reading app to help busy book-lovers schedule time to read free books, while interacting with others who share their same passion for reading. Repartee allows users to create communities for books and upload their favorite titles to the online library to share with other Reparteers for free on the Desktop app. Users can then search for and access their preferred titles by book and community on the Phone app, and set an in-app timer in minutes to read these books while chatting with other readers in the in-app chat room. Built using HTML, CSS, Django, Websockets. 
+
+Hue-man Healing: Designed and built interactive Coloring App for iPhone X users. This app is designed for art therapy and de-stressing for busy working professionals with very small breaks in the day (5-30 minutes). Users can choose their coloring tool, and draw from scratch or access templates in varying themes to color in. While enjoying the app, they can set their notifications to “Do-not-disturb”, and can share their artifacts at the end. Built using HTML, CSS, Django. 
+
+Project 2: 
+Sometimes users want to create a layout that is difficult to create with bootstrap’s 12-column layout. Bootstrap’s grid system is built on top of a tool called Flexbox. I recreated 6 of the 8 flexbox layouts as displayed below (I recreated b, d, e, f, g and h). The grid layouts are responsive--keeping the same proportions when the browser window is resized (e.g., it maintains proportions in the horizontal direction when the browser is widened, and maintains proportions in the vertical direction when the browser is lengthened).
+
+5) CompSci 61B (Data Structures)
 
 (a) Gitlet: Designed and created version-control system with a subset of Git’s features, including the init,add, commit, rm, log, status, branch, rm-branch. Implemented serialization to store and read objects, used all data structure knowledge to initialize directories, generate  files, update branches and versions through objects and classes for each command. 
 
