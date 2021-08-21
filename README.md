@@ -31,8 +31,10 @@ Repartee: Designed and built reading app to help busy book-lovers schedule time 
 
 Hue-man Healing: Designed and built interactive Coloring App for iPhone X users. This app is designed for art therapy and de-stressing for busy working professionals with very small breaks in the day (5-30 minutes). Users can choose their coloring tool, and draw from scratch or access templates in varying themes to color in. While enjoying the app, they can set their notifications to “Do-not-disturb”, and can share their artifacts at the end. Built using HTML, CSS, Django. 
 
-Project 2: 
-Sometimes users want to create a layout that is difficult to create with bootstrap’s 12-column layout. Bootstrap’s grid system is built on top of a tool called Flexbox. I recreated 6 of the 8 flexbox layouts as displayed below (I recreated b, d, e, f, g and h). The grid layouts are responsive--keeping the same proportions when the browser window is resized (e.g., it maintains proportions in the horizontal direction when the browser is widened, and maintains proportions in the vertical direction when the browser is lengthened).
+Project 2: Built misbehaving bubble wrap, bubble wrap on slow internet, drag and drop boxes, responsive grid layouts, and flexbox css. These tasks used different aspects of HTML, CSS, and JQuery. 
+
+Leisure Traveler: Weather-based trip recommendation web app. Users set temperature preferences, so cities are categorized LAZY SAFE, UNSAFE, or STORM. They can then search for a city to view its temperature, precipitation, wind, and smog level over time, add the city to the Comparison List, Favorite it, or read travelers’ reviews. Users can also compare cities’ forecasts, and navigate using the GPS. Users can check the weather mid-trip, and switch location if the weather is LAZY UNSAFE. In case of disaster, users get alerted, and can find the city’s attractions, post on social media, and upload reviews.
+
 
 5) CompSci 61B (Data Structures)
 
