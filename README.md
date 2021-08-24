@@ -23,7 +23,9 @@ Selected Projects:
 4) EECS 127 HW
 
 
-5) CS 160 Projects
+5) DES-INV 190 and CS 160 Projects
+
+Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. Users can: (1) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, (2) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), (3) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, (4) learn about government policies, local vendors, smart city definitions, and cyber firms near users, (5) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
 Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
@@ -34,7 +36,6 @@ Hue-man Healing: Designed and built interactive Coloring App for iPhone X users.
 Project 2: Built misbehaving bubble wrap, bubble wrap on slow internet, drag and drop boxes, responsive grid layouts, and flexbox css. These tasks used different aspects of HTML, CSS, and JQuery. 
 
 Leisure Traveler: Weather-based trip recommendation web app. Users set temperature preferences, so cities are categorized LAZY SAFE, UNSAFE, or STORM. They can then search for a city to view its temperature, precipitation, wind, and smog level over time, add the city to the Comparison List, Favorite it, or read travelers’ reviews. Users can also compare cities’ forecasts, and navigate using the GPS. Users can check the weather mid-trip, and switch location if the weather is LAZY UNSAFE. In case of disaster, users get alerted, and can find the city’s attractions, post on social media, and upload reviews.
-
 
 5) CompSci 61B (Data Structures)
 
