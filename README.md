@@ -21,10 +21,12 @@ Selected Projects:
 2) EECS 126 Labs
 
 
-4) EECS 127 HW: Problem sets on the following topics:
-(a) Linear Algebra (Vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
-(b) Convex Optimization (Convex sets, convex functions, convex optimization problems, KKT optimality conditions, duality (weak and strong), Slater's condition, Special convex models including LP, QP, GP, SOCP), and Robustness)
-(c) Applications (including Machine Learning, Control Systems, Engineering design, and Finance)
+4) EECS 127 HW
+
+Problem sets on the following topics:
+1. Linear Algebra concepts including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
+2. Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models including LP, QP, GP, SOCP), and Robustness
+3. Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 5) DES-INV 190 and CS 160 Projects
 
