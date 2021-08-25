@@ -5,7 +5,7 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 1) Compsci C100 (Principles and Techniques of Data Science), 
 2) EECS 126 (Probability and Random Processes), 
 3) EECS 127 (Optimization Models in Engineering)
-4) CS 160 (User Interface Design and Development)
+4) DES-INV 190 (Design and Cybersecurity) and CS 160 (User Interface Design and Development)
 5) CompSci 61B (Data Structures), 
 6) CompSci 61A (Structure and Interpretation of Computer Programs). 
 
