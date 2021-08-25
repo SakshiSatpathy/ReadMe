@@ -20,7 +20,6 @@ Selected Projects:
 
 2) EECS 126 Labs
 
-
 4) EECS 127 HW
 
 Problem sets on the following topics:
