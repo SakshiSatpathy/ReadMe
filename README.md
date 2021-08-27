@@ -1,43 +1,43 @@
-# ReadMe
-#(A) Computer Science Projects' Description
+
+# (A) Computer Science Projects' Description
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS and EECS classes I have taken at UC Berkeley: 
-##1) Compsci C100 (Principles and Techniques of Data Science) 
-##2) EECS 126 (Probability and Random Processes)
-##3) EECS 127 (Optimization Models in Engineering)
-##4) DES-INV 190-10 (Design and Cybersecurity) 
-##5) CompSci 160 (User Interface Design and Development)
-##6) CompSci 61B (Data Structures) 
-##7) CompSci 61A (Structure and Interpretation of Computer Programs) 
+## 1) Compsci C100 (Principles and Techniques of Data Science) 
+## 2) EECS 126 (Probability and Random Processes)
+## 3) EECS 127 (Optimization Models in Engineering)
+## 4) DES-INV 190-10 (Design and Cybersecurity) 
+## 5) CompSci 160 (User Interface Design and Development)
+## 6) CompSci 61B (Data Structures) 
+## 7) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
 
-1) CompSci C100 (Principles and Techniques of Data Science)
+## 1) CompSci C100 (Principles and Techniques of Data Science)
 
-(a) Email Spam Filter: Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
+### (a) Email Spam Filter: Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
 
-(b) Food Safety: Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
+### (b) Food Safety: Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
-2) EECS 126 (Probability and Random Processes) Labs
+## 2) EECS 126 (Probability and Random Processes) Labs
 
 Nine labs tackling real-world challenges such as :
 
-(a) encoding and decoding messages
+### (a) encoding and decoding messages
 
-(b) simulating a “Guess the word” game with binary search and Huffman coding
+### (b) simulating a “Guess the word” game with binary search and Huffman coding
 
-(c) applying Central Limit theorem to entropy and confidence intervals calculations 
+### (c) applying Central Limit theorem to entropy and confidence intervals calculations 
 
-(d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
+### (d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
 
 The topics encompassed were :
 
-(a) Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 
+### (a) Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 
 
-(b) Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 
+### (b) Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 
 
-(c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
+### (c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
 
 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
