@@ -23,21 +23,22 @@ Selected Projects:
 
 Nine labs tackling real-world challenges such as : (a) encoding and decoding messages (b) simulating a “Guess the word” game with binary search and Huffman coding (c) applying Central Limit theorem to entropy and confidence intervals calculations (d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
 
-The topics encompassed were: 
+The topics encompassed were 
 (a) Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 
 (b) Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 
 (c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking). 
 
 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
-Problem sets/homework on the following topics:
+Problem sets/homework on the following topics
 (a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
 (b) Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models (including LP, QP, GP, SOCP), and Robustness
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
-Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. Users can: 
+Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
+Users can 
 (a) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, 
 (b) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), 
 (c) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, 
