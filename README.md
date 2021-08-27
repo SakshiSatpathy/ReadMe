@@ -49,7 +49,7 @@ Problem sets/homework on the following topics:
 
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
-4) DES-INV 190-10 (Design and Cybersecurity) Final Project
+## 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
 
@@ -65,7 +65,7 @@ Users can:
 
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
-5) CompSci 160 (User Interface Design and Development) Projects
+## 5) CompSci 160 (User Interface Design and Development) Projects
 
 (a) Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
@@ -77,7 +77,7 @@ Users can:
 
 (e) Leisure Traveler: Weather-based trip recommendation web app. Users set temperature preferences, so cities are categorized LAZY SAFE, UNSAFE, or STORM. They can then search for a city to view its temperature, precipitation, wind, and smog level over time, add the city to the Comparison List, Favorite it, or read travelers’ reviews. Users can also compare cities’ forecasts, and navigate using the GPS. Users can check the weather mid-trip, and switch location if the weather is LAZY UNSAFE. In case of disaster, users get alerted, and can find the city’s attractions, post on social media, and upload reviews.
 
-5) CompSci 61B (Data Structures) Projects
+## 6) CompSci 61B (Data Structures) Projects
 
 (a) Gitlet: Designed and created version-control system with a subset of Git’s features, including the init,add, commit, rm, log, status, branch, rm-branch. Implemented serialization to store and read objects, used all data structure knowledge to initialize directories, generate  files, update branches and versions through objects and classes for each command. 
 
@@ -88,7 +88,7 @@ Users can:
 (d) Signpost: Recreated the puzzle game Signpost, which is one of Simon Tatham's collection of GUI games. Given an incomplete Java Model-View-Controller program that creates these puzzles and allows its user to solve them, created a board in the Model class with all variables required to capture its state at any given time, used the Place class to access and modify the position of players, wrote methods to randomly generate new games in the Puzzle Generator class, and modified the Board Widget class to display the puzzle board.
 
 
-6) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
+## 7) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
 
 (a) Scheme Interpreter: developed a Python interpreter for a subset of the Scheme language. After examining the design of our target language, built an interpreter with functions that read Scheme expressions, evaluate them, and display the results. Used all knowledge learned from CompSci 61a to apply to this final project. 
 
@@ -99,7 +99,7 @@ Users can:
 (d) Hog: Developed a simulator and multiple strategies for the two-player dice game Hog. Helper functions implemented included applications of special rules like pig out, free bacon, feral hog, swine swap, and functions to simulate taking turns till the fastest player gets to the max score of 100 based on helper functions for score-maximizing strategies (highest average turn score). Commentary functions implemented also announced the players’ score after each turn, the lead score changes when applicable, and when a certain player’s score increases the highest during a specific game. Used higher-order functions and control statements, along with various applications of print, lambda, function calls and casting. 
 
 
-(B) Economics Projects' Description
+# (B) Economics Projects' Description
 
 This Github (SakshiSatpathy) has private code from homework, and projects from the following Economics classes taken at UC Berkeley: 
 1) Econ 140 (Economic Statistics and Econometrics) 
