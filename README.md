@@ -1,14 +1,14 @@
 # ReadMe
-(A) Computer Science Projects' Description
+#(A) Computer Science Projects' Description
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS and EECS classes I have taken at UC Berkeley: 
-1) Compsci C100 (Principles and Techniques of Data Science) 
-2) EECS 126 (Probability and Random Processes)
-3) EECS 127 (Optimization Models in Engineering)
-4) DES-INV 190-10 (Design and Cybersecurity) 
-5) CompSci 160 (User Interface Design and Development)
-6) CompSci 61B (Data Structures) 
-7) CompSci 61A (Structure and Interpretation of Computer Programs) 
+##1) Compsci C100 (Principles and Techniques of Data Science) 
+##2) EECS 126 (Probability and Random Processes)
+##3) EECS 127 (Optimization Models in Engineering)
+##4) DES-INV 190-10 (Design and Cybersecurity) 
+##5) CompSci 160 (User Interface Design and Development)
+##6) CompSci 61B (Data Structures) 
+##7) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
