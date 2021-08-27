@@ -23,18 +23,26 @@ Selected Projects:
 
 Nine labs tackling real-world challenges such as : (a) encoding and decoding messages (b) simulating a “Guess the word” game with binary search and Huffman coding (c) applying Central Limit theorem to entropy and confidence intervals calculations (d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
 
-The topics encompassed were : 1. Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 2. Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 3. Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking). 
+The topics encompassed were: 
+(a) Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 
+(b) Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 
+(c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking). 
 
 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
 Problem sets/homework on the following topics:
-a. Linear Algebra concepts including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
-b. Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models including LP, QP, GP, SOCP), and Robustness
-c. Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
+(a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
+(b) Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models (including LP, QP, GP, SOCP), and Robustness
+(c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
-Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. Users can: (1) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, (2) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), (3) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, (4) learn about government policies, local vendors, smart city definitions, and cyber firms near users, (5) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
+Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. Users can: 
+(a) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, 
+(b) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), 
+(c) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, 
+(d) learn about government policies, local vendors, smart city definitions, and cyber firms near users, 
+(e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
 5) CompSci 160 (User Interface Design and Development) Projects
 (a) Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
@@ -77,7 +85,7 @@ This Github (SakshiSatpathy) has private code from homework, and projects from t
 
 Selected Projects:
 
-   (1) Impact of Internet Access, Restaurant Workers, and Senior Citizens on Early COVID-19 Rates [Language: Python (Pandas) and R]: Evaluated the impact of internet access, magnitude of the service industry, and old age on early COVID-19 rates in the US. Decided on a Multiple Linear Regression (MLR) model to jointly capture the impact of the natural log of all three variables on the log of proportion of COVID-19 cases in April 2020. The model was correctly specified after testing various relationships between the variables, ensuring roughly homoskedastic data, the expected error of our model being 0, with no perfect collinearity, and with attempt to introduce effective instrumental variables to reduce correlation between the variables and error term. 
+   (1) Impact of Internet Access, Restaurant Workers, and Senior Citizens on Early COVID-19 Fatality rates [Language: Python (Pandas) and R]: Evaluated the impact of internet access, magnitude of the service industry, and old age on early COVID-19 fatality rates in the US. Decided on a Multiple Linear Regression (MLR) model to jointly capture the impact of the natural log of all three variables on the log of proportion of COVID-19 cases in April 2020. The model was correctly specified after testing various relationships between the variables, ensuring roughly homoskedastic data, the expected error of our model being 0, with no perfect collinearity, and with attempt to introduce effective instrumental variables to reduce correlation between the variables and error term. 
 
    (2) COVID-19 Pandemic Effects on Economy, Society, & Environment [Language: R]: In regards to the economy, examined the housing market and change in rent prices. To analyze societal impacts, looked at many different characteristics such as the effectiveness of health insurances when many people require it at once, the effectiveness of lock-downs on controlling the spread of the virus, the negative side-effects of lockdowns such as depression, and how the lack of travel and mobility from the pandemic
 has affected our environment. Used various statiscal inferences to detemine our conclusions on the pandemic, such as the hypothesis testing and regression.
