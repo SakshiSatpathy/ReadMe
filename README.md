@@ -23,9 +23,10 @@ Selected Projects:
 
 Nine labs tackling real-world challenges such as :
 
-(a) encoding and decoding messages.
+(a) encoding and decoding messages
 
-(b) simulating a “Guess the word” game with binary search and Huffman coding.
+(b) simulating a “Guess the word” game with binary search and Huffman coding
+
 (c) applying Central Limit theorem to entropy and confidence intervals calculations 
 
 (d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
@@ -36,7 +37,7 @@ The topics encompassed were :
 
 (b) Random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) 
 
-(c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking). 
+(c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
 
 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
@@ -50,14 +51,20 @@ Problem sets/homework on the following topics
 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
-Users can 
-(a) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, 
-(b) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), 
-(c) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, 
-(d) learn about government policies, local vendors, smart city definitions, and cyber firms near users, 
+Users can:
+
+(a) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents
+
+(b) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training)
+
+(c) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy
+
+(d) learn about government policies, local vendors, smart city definitions, and cyber firms near users
+
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
 5) CompSci 160 (User Interface Design and Development) Projects
+
 (a) Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
 (b) Repartee: Designed and built reading app to help busy book-lovers schedule time to read free books, while interacting with others who share their same passion for reading. Repartee allows users to create communities for books and upload their favorite titles to the online library to share with other Reparteers for free on the Desktop app. Users can then search for and access their preferred titles by book and community on the Phone app, and set an in-app timer in minutes to read these books while chatting with other readers in the in-app chat room. Built using HTML, CSS, Django, Websockets. 
