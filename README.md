@@ -41,7 +41,8 @@ The topics encompassed were :
 
 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
-Problem sets/homework on the following topics
+Problem sets/homework on the following topics:
+
 (a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
 
 (b) Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models (including LP, QP, GP, SOCP), and Robustness
@@ -51,6 +52,7 @@ Problem sets/homework on the following topics
 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
+
 Users can:
 
 (a) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents
