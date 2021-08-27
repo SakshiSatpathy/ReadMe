@@ -1,5 +1,3 @@
-# Projects Descriptions
-
 # (A) Computer Science Projects' Description
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS and EECS classes I have taken at UC Berkeley: 
