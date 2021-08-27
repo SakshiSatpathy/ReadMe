@@ -15,13 +15,13 @@ Selected Projects:
 
 ## 1) CompSci C100 (Principles and Techniques of Data Science)
 
-(a) Email Spam Filter: Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
+**(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
 
-(b) Food Safety: Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
+**(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
 ## 2) EECS 126 (Probability and Random Processes) Labs
 
-Nine labs tackling real-world challenges such as :
+**Nine labs tackling real-world challenges such as:**
 
 (a) encoding and decoding messages
 
@@ -31,7 +31,7 @@ Nine labs tackling real-world challenges such as :
 
 (d) developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). 
 
-The topics encompassed were :
+**The topics encompassed were:**
 
 (a) Probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains) 
 
@@ -41,7 +41,7 @@ The topics encompassed were :
 
 ## 3) EECS 127 (Optimization Models in Engineering) HomeWork
 
-Problem sets/homework on the following topics:
+**Problem sets/homework on the following topics:**
 
 (a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
 
@@ -51,7 +51,7 @@ Problem sets/homework on the following topics:
 
 ## 4) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
-Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
+**Cyberus:** Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
 
 Users can:
 
@@ -67,7 +67,7 @@ Users can:
 
 ## 5) CompSci 160 (User Interface Design and Development) Projects
 
-(a) Auxilium: Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
+**(a) Auxilium:** Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
 (b) Repartee: Designed and built reading app to help busy book-lovers schedule time to read free books, while interacting with others who share their same passion for reading. Repartee allows users to create communities for books and upload their favorite titles to the online library to share with other Reparteers for free on the Desktop app. Users can then search for and access their preferred titles by book and community on the Phone app, and set an in-app timer in minutes to read these books while chatting with other readers in the in-app chat room. Built using HTML, CSS, Django, Websockets. 
 
