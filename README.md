@@ -20,14 +20,16 @@ Selected Projects:
 
 2) EECS 126 Labs
 
-4) EECS 127 HW
+9 labs tackling real-world challenges like encoding and decoding messages, simulating a “Guess the word” game with binary search and Huffman coding, applying Central Limit theorem to entropy and confidence intervals calculations, and developing a Metropolis-Hastings algorithm to simulate a discrete-time and continuous-time Markov Chains (these are just a few of the several scenarios). The topics encompassed were probability fundamentals (Discrete and Continuous Probability, Bounds, Convergence of Random Variables, Law of Large Numbers, Discrete Time Markov Chains), random processes and estimation (Transforms, Central Limit Theorem, Queueing, Poisson Processes, Continuous Time Markov Chains, Communication, Information Theory, MLE/MAP, Detection, Hypothesis Testing) and applications of probability (LLSE, MMSE, Kalman Filtering, Tracking). 
+
+3) EECS 127 HW
 
 Problem sets on the following topics:
 a. Linear Algebra concepts including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
 b. Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models including LP, QP, GP, SOCP), and Robustness
 c. Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
-5) DES-INV 190 and CS 160 Projects
+4) DES-INV 190 and CS 160 Projects
 
 Cyberus: Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. Users can: (1) find if they live in a smart city, load city-specific features including options to scan public tech and understand data collected from residents, (2) schedule and join city-wide events on the calendar (eg. smart city workers tackling interoperability, expert talks, or smart city government leadership training), (3) Teachers can download the city-curated school curriculum on smart cities and how students can protect their privacy, (4) learn about government policies, local vendors, smart city definitions, and cyber firms near users, (5) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
@@ -52,7 +54,7 @@ Leisure Traveler: Weather-based trip recommendation web app. Users set temperatu
 (d) Signpost: Recreated the puzzle game Signpost, which is one of Simon Tatham's collection of GUI games. Given an incomplete Java Model-View-Controller program that creates these puzzles and allows its user to solve them, created a board in the Model class with all variables required to capture its state at any given time, used the Place class to access and modify the position of players, wrote methods to randomly generate new games in the Puzzle Generator class, and modified the Board Widget class to display the puzzle board.
 
 
-3) CompSci 61A (Structure and Interpretation of Computer Programs)
+6) CompSci 61A (Structure and Interpretation of Computer Programs)
 
 (a) Scheme Interpreter: developed a Python interpreter for a subset of the Scheme language. After examining the design of our target language, built an interpreter with functions that read Scheme expressions, evaluate them, and display the results. Used all knowledge learned from CompSci 61a to apply to this final project. 
 
