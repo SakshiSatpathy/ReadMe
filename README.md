@@ -1,14 +1,15 @@
 # (A) Computer Science Projects' Description
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS and EECS classes I have taken at UC Berkeley: 
-1) Compsci C100 (Principles and Techniques of Data Science) 
-2) EECS 126 (Probability and Random Processes)
-3) EECS 127 (Optimization Models in Engineering)
-4) DES-INV 190-10 (Design and Cybersecurity) 
-5) CompSci 170 (Efficient Algorithms and Intractable Problems)
-6) CompSci 160 (User Interface Design and Development)
-7) CompSci 61B (Data Structures) 
-8) CompSci 61A (Structure and Interpretation of Computer Programs) 
+1) CompSci C100 (Principles and Techniques of Data Science) 
+2) CompSci 189 (Introduction to Machine Learning) 
+3) EECS 126 (Probability and Random Processes)
+4) EECS 127 (Optimization Models in Engineering)
+5) DES-INV 190-10 (Design and Cybersecurity) 
+6) CompSci 170 (Efficient Algorithms and Intractable Problems)
+7) CompSci 160 (User Interface Design and Development)
+8) CompSci 61B (Data Structures) 
+9) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
@@ -18,6 +19,11 @@ Selected Projects:
 **(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
 
 **(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
+
+## 2) CompSci 189 (Introduction to Machine Learning) Homeworks:
+
+**Six homeworks on the following Machine Learning topics:**
+Maximum Likelihood Estimation (MLE), Maximum a posteriori (MAP) estimation, Linear Regression, Multivariate Gaussians, Classification for Gaussians, Optimization, Support Vector Machines (SVMs), Kernels, Validation Sets, Bias-Variance and Decision Theory, Precision, Recall and ROC Curves, Nearest Neighbors, Decision Trees, Principal Component Analysis (PCA), Clustering, Convolutional Neural Networks, Unsupervised Learning Methods, Transformers, and Recommender Systems. 
 
 ## 2) EECS 126 (Probability and Random Processes) Labs
 
