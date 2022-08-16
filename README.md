@@ -22,8 +22,21 @@ Selected Projects:
 
 ## 2) CompSci 189 (Introduction to Machine Learning) Homeworks:
 
-**Six homeworks on the following Machine Learning topics:**
-Maximum Likelihood Estimation (MLE), Maximum a posteriori (MAP) estimation, Linear Regression, Multivariate Gaussians, Classification for Gaussians, Optimization, Support Vector Machines (SVMs), Kernels, Validation Sets, Bias-Variance and Decision Theory, Precision, Recall and ROC Curves, Nearest Neighbors, Decision Trees, Principal Component Analysis (PCA), Clustering, Convolutional Neural Networks, Unsupervised Learning Methods, Transformers, and Recommender Systems. 
+**Seven homeworks on the following Machine Learning topics:**
+
+(a) Maximum Likelihood Estimation (MLE), Maximum a posteriori (MAP) estimation
+
+(b) Multivariate Gaussians, Classification for Gaussians, Linear Regression
+
+(c) Logistic Regression, Gaussian Discriminative Analysis, Support Vector Machines (SVMs), 
+
+(d) Kernels, Validation Sets, Bias-Variance and Decision Theory, Precision, Recall and ROC Curves, 
+
+(e) K-Nearest Neighbors, Decision Trees, 
+
+(f) Principal Component Analysis (PCA), Clustering, Neural Networks
+
+(g) Convolutional Neural Networks, Transformers, Unsupervised Learning Methods, and Recommender Systems. 
 
 ## 2) EECS 126 (Probability and Random Processes) Labs
 
