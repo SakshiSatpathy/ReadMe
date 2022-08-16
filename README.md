@@ -65,8 +65,21 @@ Users can:
 
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
-## 5) CompSci 170 (Efficient Algorithms and Intractable Problems) Final Project
-** Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
+## 5) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
+**Final Project:**
+Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
+
+**Problem sets/homework and discussions on the following algorithms:**
+
+Graphs and Trees: Minimum spanning trees, depth-first and breadth-first search, topological sort with strongly-connected components, shortest paths algorithms (Dijkstra and Bellman-Ford), randomized min-cut
+
+General approaches: Fast Fourier Transform, divide-and-conquer, dynamic programming, greedy algorithms, union find
+
+Optimization: linear programming, duality, network flow
+
+Theoretical: NP completeness, Approximation algorithms
+
+Security: Hashing, Huffman Codes
 
 ## 6) CompSci 160 (User Interface Design and Development) Projects
 
