@@ -5,9 +5,10 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 2) EECS 126 (Probability and Random Processes)
 3) EECS 127 (Optimization Models in Engineering)
 4) DES-INV 190-10 (Design and Cybersecurity) 
-5) CompSci 160 (User Interface Design and Development)
-6) CompSci 61B (Data Structures) 
-7) CompSci 61A (Structure and Interpretation of Computer Programs) 
+5) CompSci 170 (Efficient Algorithms and Intractable Problems)
+6) CompSci 160 (User Interface Design and Development)
+7) CompSci 61B (Data Structures) 
+8) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
@@ -63,6 +64,9 @@ Users can:
 (d) learn about government policies, local vendors, smart city definitions, and cyber firms near users
 
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
+
+## 5) CompSci 170 (Efficient Algorithms and Intractable Problems) Final Project
+**Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
 
 ## 5) CompSci 160 (User Interface Design and Development) Projects
 
