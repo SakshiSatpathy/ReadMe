@@ -43,12 +43,15 @@ Selected Projects:
 
 ## 3) DATA C102 (Data, Inference and Decisions) Projects and Classwork
 **Final Project:**
-Topic 1: [GLMs and Non-parametric Methods] Predicted mortality counts from asthma given location, gender, and race using both general linear models and non-parametric models using the CDC: Annual State-Level U.S. Chronic Disease Indicators [Filtered for Asthma] dataset. Built random forests and decision trees using bootstrap aggregation. For the GLM, used a Negative Binomial regression distribution family. 
 
-Topic 2: [Bayesian Hierarchical Modeling] Predicted hospitalizations for cardiovascular diseases based on population gender and race demographics, holding age constant, using a Beta-Binomial mixture model after drawing from the CDC: Annual State-Level U.S. Chronic Disease Indicators (Filtered for Cardiovascular Disease) dataset. 
+(a) Topic 1: GLMs and Non-parametric Methods: Predicted mortality counts from asthma given location, gender, and race using both general linear models and non-parametric models using the CDC: Annual State-Level U.S. Chronic Disease Indicators [Filtered for Asthma] dataset. Built random forests and decision trees using bootstrap aggregation. For the GLM, used a Negative Binomial regression distribution family. 
+
+(b) Topic 2: Bayesian Hierarchical Modeling: Predicted hospitalizations for cardiovascular diseases based on population gender and race demographics, holding age constant, using a Beta-Binomial mixture model after drawing from the CDC: Annual State-Level U.S. Chronic Disease Indicators (Filtered for Cardiovascular Disease) dataset. 
 
 **Ten labs tackling real-world challenges such as:**
-[Lab 1] Part 1: Implemented concepts of decision theory, including testing, p-values, and controlling False Discovery Rate (FDR). Specifically, I wrote functions to calculate the likelihood ratio, calculate the probability of false positives, create an alpha level decision rule the rejects the null hypothesis at level alpha, compute p-values (smallest alpha for which test rejects null), and predicting whether samples are from the null or alternative distribution based on its p-value
+
+(a) Lab 1:
+  Part 1: Implemented concepts of decision theory, including testing, p-values, and controlling False Discovery Rate (FDR). Specifically, I wrote functions to calculate the likelihood ratio, calculate the probability of false positives, create an alpha level decision rule the rejects the null hypothesis at level alpha, compute p-values (smallest alpha for which test rejects null), and predicting whether samples are from the null or alternative distribution based on its p-value
  
 Part 2: I then explored controlling for the probability of false discoveries for multiple hypothesis testing. Specifically, I implemented 
 1. Naive thresholding (ignoring that multiple testing is happening)
