@@ -58,11 +58,11 @@ Part 2: I then explored controlling for the probability of false discoveries for
 2. Bonferroni correction that corrects p-values by controlling the Family Wise error rate (to account for multiple testing)
 3. Benjamini-Hochberg procedure for multiple hypothesis testing
 I also created confusion matrices to report the results on true positives, true negatives, false positives, and false negatives. 
-—---
-[Lab 2] I examined a medical diagnosis case study for hypothesis testing and utilized loss functions to optimize decisions
+
+(b) Lab 2: I examined a medical diagnosis case study for hypothesis testing and utilized loss functions to optimize decisions
 Part 1: Given test kit data, I implemented functions that computed average empirical loss and computed the average loss (empirical risk) with respect to various levels of 𝛼. I then investigated the average loss plot for different levels of disease prevalence
 Part 2: Given test kit data, I implemented functions that computed the posterior probability that the patient truly has the disease conditioned on a positive test result, computed the expected loss function with respect to the posterior distribution, and decided whether or not to administer the treatment by comparing the expected losses in each case
-—----
+
 [Lab 3] I attempted to estimate the COVID infection risk in households by curating multiple studies to get the best estimate of the Secondary Attack Rate (SAR), and find regions with the lowest and highest SAR. Specifically, I implemented functions that computed the trivial estimate of SAR, Examined the prior distribution, and computed the posterior mean minimizes the Bayes Risk for the Squared Error Loss of a Beta-Binomial model, and approximated inference using a PyMC3 Beta-Binomial model. 
 —-----
 [Lab 4] I partially implemented three sampling strategies for obtaining samples from unknown distributions, specifically, rejection Sampling (sampling from 1D and 2D density functions), Gibbs Sampling (building a Gibbs sampler), and Metropolis Hastings (interpreting all results for varying variance levels)
