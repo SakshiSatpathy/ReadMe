@@ -51,7 +51,7 @@ Selected Projects:
 **Ten labs tackling real-world challenges such as:**
 
 (a) Lab 1:
-  Part 1: Implemented concepts of decision theory, including testing, p-values, and controlling False Discovery Rate (FDR). Specifically, I wrote functions to calculate the likelihood ratio, calculate the probability of false positives, create an alpha level decision rule the rejects the null hypothesis at level alpha, compute p-values (smallest alpha for which test rejects null), and predicting whether samples are from the null or alternative distribution based on its p-value
+Part 1: Implemented concepts of decision theory, including testing, p-values, and controlling False Discovery Rate (FDR). Specifically, I wrote functions to calculate the likelihood ratio, calculate the probability of false positives, create an alpha level decision rule the rejects the null hypothesis at level alpha, compute p-values (smallest alpha for which test rejects null), and predicting whether samples are from the null or alternative distribution based on its p-value
  
 Part 2: I then explored controlling for the probability of false discoveries for multiple hypothesis testing. Specifically, I implemented 
 1. Naive thresholding (ignoring that multiple testing is happening)
@@ -63,25 +63,25 @@ I also created confusion matrices to report the results on true positives, true 
 Part 1: Given test kit data, I implemented functions that computed average empirical loss and computed the average loss (empirical risk) with respect to various levels of 𝛼. I then investigated the average loss plot for different levels of disease prevalence
 Part 2: Given test kit data, I implemented functions that computed the posterior probability that the patient truly has the disease conditioned on a positive test result, computed the expected loss function with respect to the posterior distribution, and decided whether or not to administer the treatment by comparing the expected losses in each case
 
-[Lab 3] I attempted to estimate the COVID infection risk in households by curating multiple studies to get the best estimate of the Secondary Attack Rate (SAR), and find regions with the lowest and highest SAR. Specifically, I implemented functions that computed the trivial estimate of SAR, Examined the prior distribution, and computed the posterior mean minimizes the Bayes Risk for the Squared Error Loss of a Beta-Binomial model, and approximated inference using a PyMC3 Beta-Binomial model. 
-—-----
-[Lab 4] I partially implemented three sampling strategies for obtaining samples from unknown distributions, specifically, rejection Sampling (sampling from 1D and 2D density functions), Gibbs Sampling (building a Gibbs sampler), and Metropolis Hastings (interpreting all results for varying variance levels)
-—---
-[Lab 6] I explored and interpreted several nonparametric methods for regression to predict the price of hybrid cars using other features of the cars. 
+(c) Lab 3: I attempted to estimate the COVID infection risk in households by curating multiple studies to get the best estimate of the Secondary Attack Rate (SAR), and find regions with the lowest and highest SAR. Specifically, I implemented functions that computed the trivial estimate of SAR, Examined the prior distribution, and computed the posterior mean minimizes the Bayes Risk for the Squared Error Loss of a Beta-Binomial model, and approximated inference using a PyMC3 Beta-Binomial model. 
+
+(d) Lab 4: I partially implemented three sampling strategies for obtaining samples from unknown distributions, specifically, rejection Sampling (sampling from 1D and 2D density functions), Gibbs Sampling (building a Gibbs sampler), and Metropolis Hastings (interpreting all results for varying variance levels)
+
+(e) Lab 6: I explored and interpreted several nonparametric methods for regression to predict the price of hybrid cars using other features of the cars. 
  
 Part 1 and 2: Specifically, I implemented functions that split the hybrid car data into train and test sets, and predicted the output by building, fitting and predicting from several models: including linear regression, decision trees for regression, and random forests. I then compared the performance of each of the models.
  
 Part 3: I then explored the effect of feature engineering on the interpretability of a given model using a toy dataset. Specifically, I implemented functions that added random features to the dataset based on a sigmoid transformation of a linear combination of the data. 
-—---
-[Lab 7]
+
+(f) Lab 7:
 I estimated the causal effect of the number of books and income on the SAT Score given that the number of books is observed while the family income is unobserved. Specifically, I implemented code that first did the above using Ordinary Least Squares. Secondly, I used 2-stage least squares and instrumental variables to eliminate the bias from the unobserved variable family income. The first stage "predicts" the number of books a student read from whether or not they had a readathon. The second stage regresses the SAT score onto the predicted number of books read. 
-—---
-[Lab 8] 
+
+(g) Lab 8: 
 I explored the challenges of doing causal inference without randomization using the unconfoundedness assumption, and partially reproduced results from a real labor economics application in a very famous paper by Robert Lalonde that estimates the causal effect of a training program from the 1970s on income. Specifically, I implemented code that computed the causal effect in randomized experiments, computed the Simple Difference in Observed group means (SDO) by not using a control group (for observational study data). 
-—---
-[Lab 9] I implemented and gained a better understanding of the Multi-armed bandits problem through this lab. Specifically, the pros and cons of the Upper Confidence Bounds (UCB) and Thompson Sampling algorithms for the multi-armed bandits problem. The first algorithm I implemented pulled the choice of arm given the frequentist take on multi-armed bandits, otherwise known as the Upper Confidence Bounds (UCB) algorithm. I then investigated the pseudo-regret of the UCB algorithm. The second algorithm I implemented pulled the choice of arm given the Bayesian take on multi-armed bandits, known as Thompson Sampling. In this setting, we begin with a prior over the mean of each arm. Finally, I evaluated the pros and Cons of UCB and Thompson Sampling given their pseudo-regret and implementation. 
-—--
-[Lab 10] I explored solving MDPs (Markov Decision Processes) by collecting data. This included simple Monte Carlo estimates from offline data, and the online Q-learning algorithm. 
+
+(h) Lab 9: I implemented and gained a better understanding of the Multi-armed bandits problem through this lab. Specifically, the pros and cons of the Upper Confidence Bounds (UCB) and Thompson Sampling algorithms for the multi-armed bandits problem. The first algorithm I implemented pulled the choice of arm given the frequentist take on multi-armed bandits, otherwise known as the Upper Confidence Bounds (UCB) algorithm. I then investigated the pseudo-regret of the UCB algorithm. The second algorithm I implemented pulled the choice of arm given the Bayesian take on multi-armed bandits, known as Thompson Sampling. In this setting, we begin with a prior over the mean of each arm. Finally, I evaluated the pros and Cons of UCB and Thompson Sampling given their pseudo-regret and implementation. 
+
+(i) Lab 10: I explored solving MDPs (Markov Decision Processes) by collecting data. This included simple Monte Carlo estimates from offline data, and the online Q-learning algorithm. 
 Part 1: Specifically, I wrote some code which takes a policy (in the form of a function from states to actions) and then runs that policy in a given GridWorld environment so that we can collect a dataset. Next, I computed the discounted sum of rewards. 
 Part 2: I also implemented code that retrieved the optimal policy from the optimal Q-function, and other functions which updated the Q function using observed samples when the optimal Q-function is unknown, and creates agents that can be run in  deterministic or stochastic settings. 
 
