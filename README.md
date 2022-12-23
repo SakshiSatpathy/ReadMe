@@ -81,32 +81,33 @@ Part 3: I then explored the effect of feature engineering on the interpretabilit
 Part 1: Specifically, I wrote some code which takes a policy (in the form of a function from states to actions) and then runs that policy in a given GridWorld environment so that we can collect a dataset. Next, I computed the discounted sum of rewards.   
 Part 2: I also implemented code that retrieved the optimal policy from the optimal Q-function, and other functions which updated the Q function using observed samples when the optimal Q-function is unknown, and creates agents that can be run in  deterministic or stochastic settings. 
 
-**Five labs tackling real-world challenges such as:**
-[HW1] Coding solved included:
+**Five labs tackling real-world challenges such as:  **
+
+(a) HW1: Coding Problems solved included:
 1. Math Stats: ranging from conditional probabilities to computing row-wise and column-wise rates to computing the likelihood ratio
 2. Bias in Police Stops:  Coding a normalized histogram for the theoretical null given police dataset z-scores, computing p-values and applying the BH procedure to find the number of discoveries for the empirical and theoretical null distributions
-3. p-values, FDR and FWER: Coding a function avg_difference_in_means  compute the p-value for given null and alternative distributions for each feature subselection, and determining  for which tests do we reject the null hypothesis in case of controlling for the FDR vs. the FWER given thresholds. 
- 
-[HW2] Coding Problems I solved included:
+3. p-values, FDR and FWER: Coding a function avg_difference_in_means  compute the p-value for given null and alternative distributions for each feature subselection, and determining  for which tests do we reject the null hypothesis in case of controlling for the FDR vs. the FWER given thresholds.  
+
+
+(b) HW2: Coding Problems solved included:
 1. The One with all the Beetles:  To estimate the size of the largest possible beetle using statistical modeling, found the likelihood function and MLE, computed the posterior and showing it is Pareto-distributed given a Pareto prior, and interpreting the alpha and beta parameters. Additionally, wrote code to generate the posterior, and used the data to make a graph of one curve for each of the days 1, 10, 50 and 100 (so four curves total), where each curve is the PDF of the posterior for the respective day
 2. Bayesian Fidget Spinners: To classify which boxes come from factories, and how reliable each factory is, created a Beta-Bernoulli-Geometric model
 3. Rejection Sampling
  
-[HW3] Coding Problems solved included:
+(c) HW3: Coding Problems solved included:
 1. GLM for Dilution Assay: Reformulated problem as generalized linear models to estimate the unknown concentration ρ0 of an infectious microbe in a solution given dilution
 2. Image Denoising with Gibbs Sampling: Derived a Gibbs sampling algorithm to restore a corrupted image
 3. Bayesian GLM: Applied Gaussian linear regression to election data to predict the outcome of the 2020 election using information from previous elections
 
-[HW4] Coding Problems solved included:
+(d) HW4: Coding Problems solved included:
 1. Observational Data on Infant Health: Estimated the causal effect of The Infant Health and Development Program on the child’s cognitive test scores using logistic regression and devising a propensity score model to control for observed confounders in the observational study data
 2. Causal Inference Potpourri: Evaluated study design effectiveness of a new veterinary drug for sick seals using graphical modeling and the backdoor criterion
  
 
-[HW5] Coding Problems solved included:
-1. Simulation Study of Bandit Algorithms
-    1. Coding the explore-then-commit algorithm and computing pseudo-regret
-    2. Coding the UCB algorithm and computing pseudo-regret: 
-    3. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
+HW5: Coding involved the Simulation Study of Bandit Algorithms:  
+1. Coding the explore-then-commit algorithm and computing pseudo-regret. 
+2. Coding the UCB algorithm and computing pseudo-regret: 
+3. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
 
 
 ## 3) EECS 126 (Probability and Random Processes) Labs
