@@ -1,6 +1,6 @@
-# (A) Computer Science Projects' Description
+# (A) Coding Projects Description
 
-This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS and EECS classes I have taken at UC Berkeley: 
+This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), DS (Data Science) and Economics classes I have taken at UC Berkeley: 
 1) CompSci C100 (Principles and Techniques of Data Science) 
 2) CompSci 189 (Introduction to Machine Learning)
 3) DATA C102 (Data, Inference, and Decisions)
