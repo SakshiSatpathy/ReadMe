@@ -41,7 +41,8 @@ Selected Projects:
 
 (g) Convolutional Neural Networks, Transformers, Unsupervised Learning Methods, and Recommender Systems. 
 
-## 3) DATA C102 (Data, Inference and Decisions) Projects and Classwork
+## 3) DATA C102 (Data, Inference and Decisions) Final Project and Classwork
+
 **Final Project:**
 
 (a) Topic 1: GLMs and Non-parametric Methods: Predicted mortality counts from asthma given location, gender, and race using both general linear models and non-parametric models using the CDC: Annual State-Level U.S. Chronic Disease Indicators [Filtered for Asthma] dataset. Built random forests and decision trees using bootstrap aggregation. For the GLM, used a Negative Binomial regression distribution family. 
@@ -88,10 +89,9 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 2. Bias in Police Stops:  Coding a normalized histogram for the theoretical null given police dataset z-scores, computing p-values and applying the BH procedure to find the number of discoveries for the empirical and theoretical null distributions
 3. p-values, FDR and FWER: Coding a function avg_difference_in_means  compute the p-value for given null and alternative distributions for each feature subselection, and determining  for which tests do we reject the null hypothesis in case of controlling for the FDR vs. the FWER given thresholds.  
 
-
 (b) HW2: Coding Problems solved included:
 1. The One with all the Beetles:  To estimate the size of the largest possible beetle using statistical modeling, found the likelihood function and MLE, computed the posterior and showing it is Pareto-distributed given a Pareto prior, and interpreting the alpha and beta parameters. Additionally, wrote code to generate the posterior, and used the data to make a graph of one curve for each of the days 1, 10, 50 and 100 (so four curves total), where each curve is the PDF of the posterior for the respective day
-2. Bayesian Fidget Spinners: To classify which boxes come from factories, and how reliable each factory is, created a Beta-Bernoulli-Geometric model
+2. Bayesian Fidget Spinners: Created a Beta-Bernoulli-Geometric model (similar to Gaussian mixture model) to classify which boxes come from factories, and how reliable each factory is based on their fidget spinner production
 3. Rejection Sampling
  
 (c) HW3: Coding Problems solved included:
@@ -103,14 +103,26 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 1. Observational Data on Infant Health: Estimated the causal effect of The Infant Health and Development Program on the child’s cognitive test scores using logistic regression and devising a propensity score model to control for observed confounders in the observational study data
 2. Causal Inference Potpourri: Evaluated study design effectiveness of a new veterinary drug for sick seals using graphical modeling and the backdoor criterion
  
-
-HW5: Coding involved the Simulation Study of Bandit Algorithms:  
+(e) HW5: Coding involved the Simulation Study of Bandit Algorithms:  
 1. Coding the explore-then-commit algorithm and computing pseudo-regret. 
 2. Coding the UCB algorithm and computing pseudo-regret: 
 3. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
 
+## 4) DATA 101 (Data Engineering) Projects
+**(a) Project 1: SQL**
+Worked with SQL on the IMDB database to explore and extract relevant information from database with SQL functions, perform data cleaning and transformation using string functions and regex, and use the cleaned data to run insightful analysis using joins, aggregations, and window functions
 
-## 3) EECS 126 (Probability and Random Processes) Labs
+**(b) Project 2: Query Performance**
+Worked with the Lahman's Baseball Database to explore how the database system optimizes query execution (and how users can further tune the performance of their queries using index selection, properties of query processing, and query optimization. 
+
+**(c) Project 3: Data Transformation**
+Worked with one month of unstructured sensor data from UC Berkeley buildings. Used data prep, data cleaning, normalization, entity resolution, linear interpolation, and outlier handling to transform the data to make it usable for data pipelines. 
+
+**(d) Project 4: Mongo**
+Investigated how different database systems handle semi-structured JSON data using MongoDB, Postgres SQL and Pandas. Worked with the Yelp Academic Dataset to understand what Mongo can (and cannot) do with regards to its documents as a NoSQL datastore and compare and contrast this to other data representation formats such as the relational model.
+
+
+## 5) EECS 126 (Probability and Random Processes) Labs
 
 **Nine labs tackling real-world challenges such as:**
 
@@ -130,7 +142,7 @@ HW5: Coding involved the Simulation Study of Bandit Algorithms:
 
 (c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
 
-## 4) EECS 127 (Optimization Models in Engineering) HomeWork
+## 6) EECS 127 (Optimization Models in Engineering) HomeWork
 
 **Problem sets/homework on the following topics:**
 
@@ -140,7 +152,7 @@ HW5: Coding involved the Simulation Study of Bandit Algorithms:
 
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
-## 5) DES-INV 190-10 (Design and Cybersecurity) Final Project
+## 7) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 **Cyberus:** Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
 
@@ -156,7 +168,7 @@ Users can:
 
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
-## 6) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
+## 8) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
 **Final Project:**
 Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
 
@@ -172,10 +184,10 @@ Theory: NP completeness, Approximation algorithms
 
 Security: Hashing, Huffman Codes
 
-## 7) INFO 159 (Natural Language Processing) Final Project
+## 9) INFO 159 (Natural Language Processing) Final Project
 Designed and implemented a new document classification task Annotation Project to understand if, when given restaurant reviews from the Yelp dataset, one can discern the level of dining (fast food dining, casual dining, fine dining) based on the word and phrase descriptors within the review text bodies, and internal features during the machine learning process. Designed annotation task subject study, developed comprehensive guidelines for consistent third-party annotations, validated label-specific patterns through measuring the inter-annotator agreement rate and external feedback, and built several classifiers (logistic regression, BERT), comparing different models (eg. BERT, Bag of Words with L2 regularization, TD-IDF with L2 regularization, combined word-phrase features) and conducting a robust error analysis and report for future improvements to improve accuracy and class imbalance captured through the classifier performance based on the developed annotation guidelines.   
  
-## 8) CompSci 160 (User Interface Design and Development) Projects
+## 10) CompSci 160 (User Interface Design and Development) Projects
 
 **(a) Auxilium:** Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
@@ -187,7 +199,7 @@ Designed and implemented a new document classification task Annotation Project t
 
 **(e) Leisure Traveler:** Weather-based trip recommendation web app. Users set temperature preferences, so cities are categorized LAZY SAFE, UNSAFE, or STORM. They can then search for a city to view its temperature, precipitation, wind, and smog level over time, add the city to the Comparison List, Favorite it, or read travelers’ reviews. Users can also compare cities’ forecasts, and navigate using the GPS. Users can check the weather mid-trip, and switch location if the weather is LAZY UNSAFE. In case of disaster, users get alerted, and can find the city’s attractions, post on social media, and upload reviews.
 
-## 9) CompSci 61B (Data Structures) Projects
+## 11) CompSci 61B (Data Structures) Projects
 
 **(a) Gitlet:** Designed and created version-control system with a subset of Git’s features, including the init,add, commit, rm, log, status, branch, rm-branch. Implemented serialization to store and read objects, used all data structure knowledge to initialize directories, generate  files, update branches and versions through objects and classes for each command. 
 
@@ -198,7 +210,7 @@ Designed and implemented a new document classification task Annotation Project t
 **(d) Signpost:** Recreated the puzzle game Signpost, which is one of Simon Tatham's collection of GUI games. Given an incomplete Java Model-View-Controller program that creates these puzzles and allows its user to solve them, created a board in the Model class with all variables required to capture its state at any given time, used the Place class to access and modify the position of players, wrote methods to randomly generate new games in the Puzzle Generator class, and modified the Board Widget class to display the puzzle board.
 
 
-## 10) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
+## 12) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
 
 **(a) Scheme Interpreter:** developed a Python interpreter for a subset of the Scheme language. After examining the design of our target language, built an interpreter with functions that read Scheme expressions, evaluate them, and display the results. Used all knowledge learned from CompSci 61a to apply to this final project. 
 
