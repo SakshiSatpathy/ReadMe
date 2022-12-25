@@ -1,4 +1,6 @@
-# (A) Computer Science Projects' Description (17 private repositories, 5 public repositories)
+# (A) Computer Science Projects' Description 
+
+Note: As of Fall 2022, there are 22 (17 private, 5 public) repositories with coding projects
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci C100 (Principles and Techniques of Data Science) 
