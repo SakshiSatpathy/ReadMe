@@ -103,10 +103,10 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 1. Observational Data on Infant Health: Estimated the causal effect of The Infant Health and Development Program on the child’s cognitive test scores using logistic regression and devising a propensity score model to control for observed confounders in the observational study data
 2. Causal Inference Potpourri: Evaluated study design effectiveness of a new veterinary drug for sick seals using graphical modeling and the backdoor criterion. 
 
-**(e) HW5:** Coding involved the Simulation Study of Bandit Algorithms:  
-4. Coding the explore-then-commit algorithm and computing pseudo-regret. 
-5. Coding the UCB algorithm and computing pseudo-regret: 
-6. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
+**(e) HW5:** Coding involved the Simulation Study of Bandit Algorithms:
+1. Coding the explore-then-commit algorithm and computing pseudo-regret. 
+2. Coding the UCB algorithm and computing pseudo-regret: 
+3. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
 
 ## 4) DATA 101 (Data Engineering) Projects
 **(a) Project 1: SQL**
