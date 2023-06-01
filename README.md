@@ -22,8 +22,6 @@ Selected Projects:
 
 ## 1) CompSci 182
 
-Final Project:
-
 Twelve homeworks: 
 
 HW12:
