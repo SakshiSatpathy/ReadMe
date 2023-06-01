@@ -3,23 +3,44 @@
 Note: As of January 2023, there are 22 (17 private, 5 public) repositories with coding projects
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
-1) CompSci C100 (Principles and Techniques of Data Science) 
-2) CompSci 189 (Introduction to Machine Learning)
-3) DATA C102 (Data, Inference, and Decisions)
-4) DATA 101 (Data Engineering) 
-5) EECS 126 (Probability and Random Processes)
-6) EECS 127 (Optimization Models in Engineering)
-7) DES-INV 190-10 (Design and Cybersecurity) 
-8) CompSci 170 (Efficient Algorithms and Intractable Problems)
-9) INFO 159 (Natural Language Processing)
-10) CompSci 160 (User Interface Design and Development)
-11) CompSci 61B (Data Structures) 
-12) CompSci 61A (Structure and Interpretation of Computer Programs) 
+1) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
+2) CompSci C100 (Principles and Techniques of Data Science) 
+3) CompSci 189 (Introduction to Machine Learning)
+4) DATA C102 (Data, Inference, and Decisions)
+5) DATA 101 (Data Engineering) 
+6) EECS 126 (Probability and Random Processes)
+7) EECS 127 (Optimization Models in Engineering)
+8) DES-INV 190-10 (Design and Cybersecurity) 
+9) CompSci 170 (Efficient Algorithms and Intractable Problems)
+10) INFO 159 (Natural Language Processing)
+11) CompSci 160 (User Interface Design and Development)
+12) CompSci 61B (Data Structures) 
+13) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
 
-## 1) CompSci C100 (Principles and Techniques of Data Science)
+## 1) CompSci 182
+
+Final Project:
+
+Twelve homeworks: 
+
+HW12: 
+**Reinforcement Learning from Human Feedback:** Implemented the RLHF algorithm to solve a NLP task  (news summarization). First, generated multiple hypotheses for each input example using a small unlabeled training set. Second, obtained human feedback by having "humans" rank these hypotheses according to their quality. Third, trained a reward model that captures human preferences by fitting it to the collected human feedback. Fourth, leveraged the reward model to enhance our summarization model using reinforcement learning techniques.
+**Early Exit:** Implemented baseline ResNet and ResNet with Early Exit (Global average pooling, MLP layer of 128 nodes, ReLU, MLP layer of num_class nodes). Compared performance and outputs of early exit result and the final result. Did joint training (Training the entire network with all the exits at the same time). 
+
+HW11:
+**Policy Gradient in Reinforcement Learning:** Policy gradient at a high level approximates the gradient and then does gradient descent using this approximated gradient. Implemented policy gradient algorithm for neural networks, and compared accuracy with baseline supervised learning approach. 
+
+**Transformer for Summarization (Part II):** Efficiently enabled the Transformer encoder-decoder model to generate sequences. Then fine-tuned another Transformer encoder-decoder model based on the pretrained language model T5 for the same task. Finally, compared the performance of the fine-tuned model against our previous custom model that was trained from scratch.
+
+**Generative Models:** Used PyTorch to implement the variational autoencoder (VAE) and learn a probabilistic model of the MNIST dataset of handwritten digits. Also trained a Generative Adversarial Network (GAN) on MNIST dataset.
+
+
+
+
+## 2) CompSci C100 (Principles and Techniques of Data Science)
 
 **(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
 
