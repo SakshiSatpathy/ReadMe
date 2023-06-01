@@ -67,6 +67,12 @@ HW6:
 
 **RNN for Last Name Classification:** Trained a neural network to predict the probable language of origin for a given last name / family name in Latin alphabets. Firstly, preprocessed raw text data for suitable input into an RNN and LSTM. Then utilized PyTorch to train the recurrent neural network models. Finally, evaluated models’ performance and made predictions on unseen data.
 
+HW5: 
+
+**Graph Clustering:** Implemented k-means clustering algorithm. Also interpreted a dataset as a graph (interpreted every single point in the provided dataset as a node in a graph. The implemented adjacency matrix, stochastic matrix and SVD decomposition to relate every node in the graph is such way that they points that are closer together maintain that relationship while points that are farther are explicitly identified. Then performed k-means clustering on graph re-interpretation to improve performance of clustering for 3 classes. 
+
+**Zachary's Karate Club:** Trained a GNN (Graph Neural Network), specifically a multi-layer Graph Convolutional Network, to cluster people in the karate club in such that people who are more likely to associate with either the officer or Mr. Hi will be close together, while the distance beween the 2 classes will be far. 
+
 
 
 
