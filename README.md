@@ -77,6 +77,21 @@ HW4:
 
 **Edge Detection:** Implemented and compared convolutional neural networks (CNNs) and multi-layer perceptrons (MLPs) to understand what is inductive bias and how it affects the learning process, and to conduct systematic ML experiments. Used the edge detection task to study the inductive bias of CNN. Specifically, generated synthetic dataset, and made models overfit this small dataset to test model architecture. 
 
+HW3: 
+
+**Hand-Designing Filters:** Designed convolution filters by hand to understand the operation of convolution. Specifically, designed simple blurring (Averaging filter) and edge detection (Laplacian derivative) filters. 
+
+**CNN with PyTorch:** Practiced writing backpropagation code and training Neural Networks. Specifically, implemented spatial batch normalization (forward and backward pass), different layer types for 3-layer convolutional network (convolutional forward pass, convolutional backward pass, max pooling). Checked performance with gradient check and implementing loss functions. 
+
+HW2: 
+
+**Fully Connected Net with PyTorch:** Implemented Two Layer  fully-connected neural network with ReLU nonlinearity and softmax loss (affine - relu - affine - softmax) and interacts with Solver object that runs optimization (see below). 
+
+**Optimization and Initialization:** Implemented different optimization Methods and initialization to speed up learning and get a better final value for the cost function (as opposed to gradient descent). Specifically, implemented Stochastic Gradient Descent (SGD), SGD with Momentum, and compared performance with regular gradient descent. 
+
+**Accelerating Gradient Descent with Momentum:** Implemented gradient descent with momentum with different learning rates and compared and visualized performance (gradient changes and loss changes with different iterations)
+
+**Linearization (Part 2):** Trained a 1-hidden layer neural network using Stochastic Gradient Descent with Momentum. Visualized this model using local linearization (first-order Taylor expansion) and visualized decomposition of principle components using SVD decomposition. 
 
 
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
