@@ -88,7 +88,7 @@ HW3:
 
 HW2: 
 
-**Fully Connected Net with PyTorch:** Implemented Two Layer  fully-connected neural network with ReLU nonlinearity and softmax loss (affine - relu - affine - softmax) and interacts with Solver object that runs optimization (see below). 
+**Fully Connected Net with PyTorch from HW1:** Implemented Two Layer  fully-connected neural network with ReLU nonlinearity and softmax loss (affine - relu - affine - softmax). Instead of gradient descent, interacts with Solver object that runs optimization (see below). 
 
 **Optimization and Initialization:** Implemented different optimization Methods and initialization to speed up learning and get a better final value for the cost function (as opposed to gradient descent). Specifically, implemented Stochastic Gradient Descent (SGD), SGD with Momentum, and compared performance with regular gradient descent. 
 
@@ -101,8 +101,7 @@ HW1:
 
 **Linearization (Part 1):** Learned the piecewise linear target function using a simple 1-hidden layer neural network with ReLU non-linearity. Also created two SGD optimizers to choose whether to train all parameters or only the linear output layer's parameters. Implemented several versions of this network with varying widths to explore how hidden layer width impacts learning performance.
 
-**Fully Connected Net with PyTorch (Part 1):** Implement a two-layer fully-connected network using a modular approach. For each layer (affine, ReLU), implemented a forward and a backward function. Additionally, implemented Softmax and SVM loss functions. 
-
+**Fully Connected Net with PyTorch:** Implemented two-layer fully-connected network using a modular approach. For each layer (affine, ReLU non-linearity), implemented a forward and a backward function. Additionally, implemented Softmax and SVM loss functions. Final architecture was affine - relu - affine - softmax, and uses gradient descent for optimization.
 
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
 
