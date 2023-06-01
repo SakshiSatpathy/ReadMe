@@ -1,6 +1,6 @@
 # (A) Computer Science Projects' Description 
 
-Note: As of January 2023, there are 22 (17 private, 5 public) repositories with coding projects
+Note: As of June 2023, there are 25 (20 private, 5 public) repositories with coding projects
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
@@ -40,11 +40,19 @@ HW11:
 **Generative Models:** Used PyTorch to implement the variational autoencoder (VAE) and learn a probabilistic model of the MNIST dataset of handwritten digits. Also trained a Generative Adversarial Network (GAN) on MNIST dataset.
 
 HW10: 
+
 **MAML:** Implemented Meta-Learning on 1-D Functions for both regression and classification. Also compared performance of the meta-learned feature weights with the case where all feature weights are 1, and with the case where the oracle is used (which performs logistic regression using only the features present in the data). 
 
 **Pruning:** Using the CIFAR10 dataset and VGG network, implemented and applied fine-graining pruning, implemented and applied channel pruning, and compared baseline net with pruned network, and compared performance of fine-grained vs channel pruning. 
 
 **Quantization:** Quantized a classical neural network model to reduce both model size and latency. Specifically, implement and applied k-means quantization, quantization-aware training for k-means quantization, linear quantization, and integer-only inference for linear quantization. Then compared baseline net with quantized net performance. Also compared performance and tradeoffs between the above quantization approaches. 
+
+HW9:
+
+**MAE:** Implemented Vision Transformer (ViT) and trained it on CIFAR dataset. Also, implemented Masked Autoencoder (MAE).
+
+**Transformer for Summarization (Part I):** Implemented a Transformer using fundamental building blocks in PyTorch. Then applied the Transformer encoder-decoder model to a sequence-to-sequence NLP task: document summarization.
+
 
 
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
