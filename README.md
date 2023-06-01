@@ -20,9 +20,12 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 
 Selected Projects:
 
-## 1) CompSci 182
+## 1) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 
-Twelve homeworks: 
+***Final Project:***
+The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introduces a way to train and run diffusion models at a much lower compute cost while still maintaining the sample quality. The paper’s approach can be broken down into 2 subtasks: training an autoencoder for dimensionality reduction and training a denoising UNet for the diffusion process on the latent space. Our group designed a problem set and corresponding solutions to guide students through both of the subtasks through 5 main questions. The first 2 questions encourage the students to read the paper and think about the pain points of traditional diffusion models, how latent diffusion models address them, and understand details on how the model is set up. The 3rd question guides the students through the important mathematical part of the diffusion model so they would be able to implement a simplified version of their own later on. The 4th question lets the students code their own simplified diffusion model on a simple dataset that is easy to visualize so they would understand all the components in training their own diffusion model. More details on each of the questions are listed in the commentary.pdf file in the project repository. The 5th question lets the students implement and train their own autoencoder (variational autoencoder) in the style of the paper, making them understand the different autoencoder loss terms and how each of them affects the reconstruction quality.
+
+***Twelve homeworks:***
 
 HW12:
 
