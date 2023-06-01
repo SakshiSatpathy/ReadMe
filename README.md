@@ -61,6 +61,15 @@ HW7:
 
 **Autoencoders:** Implemented pretraining models with unsupervised learning and evaluating the learned representations with a linear classifier. Specifically, we will implemented three different architectures: Vanilla Autoencoder, Denoising Autoencoder, and Masked Autoencoder. 
 
+HW6:
+
+**LSTMs:** Implemented simple RNNs and LSTMs (Long short-term memory neural networks with feedback connections), then explored how gradients flow through these different networks.
+
+**RNN for Last Name Classification:** Trained a neural network to predict the probable language of origin for a given last name / family name in Latin alphabets. Firstly, preprocessed raw text data for suitable input into an RNN and LSTM. Then utilized PyTorch to train the recurrent neural network models. Finally, evaluated models’ performance and made predictions on unseen data.
+
+
+
+
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
 
 **(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
