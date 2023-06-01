@@ -97,6 +97,13 @@ HW2:
 **Linearization (Part 2):** Trained a 1-hidden layer neural network using Stochastic Gradient Descent with Momentum. Visualized this model using local linearization (first-order Taylor expansion) and visualized decomposition of principle components using SVD decomposition. 
 
 
+HW1: 
+
+**Linearization (Part 1):** Learned the piecewise linear target function using a simple 1-hidden layer neural network with ReLU non-linearity. Also created two SGD optimizers to choose whether to train all parameters or only the linear output layer's parameters. Implemented several versions of this network with varying widths to explore how hidden layer width impacts learning performance.
+
+**Fully Connected Net with PyTorch (Part 1):** Implement a two-layer fully-connected network using a modular approach. For each layer (affine, ReLU), implemented a forward and a backward function. Additionally, implemented Softmax and SVM loss functions. 
+
+
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
 
 **(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
