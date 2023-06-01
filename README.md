@@ -73,6 +73,11 @@ HW5:
 
 **Zachary's Karate Club:** Trained a GNN (Graph Neural Network), specifically a multi-layer Graph Convolutional Network, to cluster people in the karate club in such that people who are more likely to associate with either the officer or Mr. Hi will be close together, while the distance beween the 2 classes will be far. 
 
+HW4: 
+
+**Dropout:** Explored the effect of dropout on a simple gradient descent problem. Specifically trained weights to solve linear equation where weights initialized to be 0. Formulated question as OLS optimization problem. Compared performance of the following layers on network (trained on CIFAR-10 dataset): *No dropout + Least-Squares* vs. *No dropout + Gradient Descent* vs. *Dropout + Least-Squares* vs. *Dropout + Gradient Descent*
+
+**Edge Detection:** Implemented and compared convolutional neural networks (CNNs) and multi-layer perceptrons (MLPs) to understand what is inductive bias and how it affects the learning process, and to conduct systematic ML experiments. Used the edge detection task to study the inductive bias of CNN. Specifically, generated synthetic dataset, and made models overfit this small dataset to test model architecture. 
 
 
 
