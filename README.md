@@ -53,7 +53,13 @@ HW9:
 
 **Transformer for Summarization (Part I):** Implemented a Transformer using fundamental building blocks in PyTorch. Then applied the Transformer encoder-decoder model to a sequence-to-sequence NLP task: document summarization.
 
+HW8: 
 
+**Implemented transformer model:** Created a hand-designed transformer model capable of solving a basic problem. Analyzed the attention patterns of a trained network to gain insights into how learned models often utilize features that differ greatly from those employed by humans.
+
+HW7:
+
+**Autoencoders:** Implemented pretraining models with unsupervised learning and evaluating the learned representations with a linear classifier. Specifically, we will implemented three different architectures: Vanilla Autoencoder, Denoising Autoencoder, and Masked Autoencoder. 
 
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
 
