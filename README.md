@@ -3,24 +3,34 @@
 Note: As of June 2023, there are 25 (20 private, 5 public) repositories with coding projects
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
-1) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
-2) CompSci C100 (Principles and Techniques of Data Science) 
-3) CompSci 189 (Introduction to Machine Learning)
-4) DATA C102 (Data, Inference, and Decisions)
-5) DATA 101 (Data Engineering) 
-6) EECS 126 (Probability and Random Processes)
-7) EECS 127 (Optimization Models in Engineering)
-8) DES-INV 190-10 (Design and Cybersecurity) 
-9) CompSci 170 (Efficient Algorithms and Intractable Problems)
-10) INFO 159 (Natural Language Processing)
-11) CompSci 160 (User Interface Design and Development)
-12) CompSci 61B (Data Structures) 
-13) CompSci 61A (Structure and Interpretation of Computer Programs) 
+1) CompSci 280 (Graduate Computer Vision)
+2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
+4) CompSci C100 (Principles and Techniques of Data Science) 
+5) CompSci 189 (Introduction to Machine Learning)
+6) DATA C102 (Data, Inference, and Decisions)
+7) DATA 101 (Data Engineering) 
+8) EECS 126 (Probability and Random Processes)
+9) EECS 127 (Optimization Models in Engineering)
+10) CompSci 161 (Computer Security)
+11) DES-INV 190-10 (Design and Cybersecurity) 
+12) CompSci 170 (Efficient Algorithms and Intractable Problems)
+13) INFO 159 (Natural Language Processing)
+14) CompSci 160 (User Interface Design and Development)
+15) CompSci 61B (Data Structures) 
+16) CompSci 61A (Structure and Interpretation of Computer Programs) 
 
 
 Selected Projects:
 
-## 1) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
+## 1) CompSci 280 (Graduate Computer Vision)
+**Final Project:** Facial Landmark Detection detects and localizes points such as the eyes, nose, mouth, and chin. Designed project and applied different combinations of architectures and frameworks—specifically, different U-nets, knowledge distillation and denoting diffusion—to improve the performance of facial landmark detection using deep learning. 
+
+**Assignment 1:** Constructed a lighter and smaller Residual Network (ResNet) architecture. Train different versions of network to perform image classification by minimizing the cross-entropy between the network’s prediction and CIFAR-10 targets. Used Adam optimizer. Plotted the loss value and the classification accuracy on training and validation set, and chose the iteration with the least error. 
+
+**Assignment 2:** Created model for multi-view reconstruction that recovers the 3D shape of an object given its image from two different viewpoints. In particular, given 2D point correspondences in the 2 images, estimated their 3D position in the scene and also estimate the camera positions and orientations. Implemented camera model, fundamental matrix, essential matrix, eight-point algorithm, estimated extrinsic camera Parameters from the essential matrix, and triangulation. 
+
+
+## 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 
 ***Final Project:***
 The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introduces a way to train and run diffusion models at a much lower compute cost while still maintaining the sample quality. The paper’s approach can be broken down into 2 subtasks: training an autoencoder for dimensionality reduction and training a denoising UNet for the diffusion process on the latent space. Our group designed a problem set and corresponding solutions to guide students through both of the subtasks through 5 main questions. The first 2 questions encourage the students to read the paper and think about the pain points of traditional diffusion models, how latent diffusion models address them, and understand details on how the model is set up. The 3rd question guides the students through the important mathematical part of the diffusion model so they would be able to implement a simplified version of their own later on. The 4th question lets the students code their own simplified diffusion model on a simple dataset that is easy to visualize so they would understand all the components in training their own diffusion model. More details on each of the questions are listed in the commentary.pdf file in the project repository. The 5th question lets the students implement and train their own autoencoder (variational autoencoder) in the style of the paper, making them understand the different autoencoder loss terms and how each of them affects the reconstruction quality.
