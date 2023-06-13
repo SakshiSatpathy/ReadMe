@@ -248,6 +248,33 @@ Investigated how different database systems handle semi-structured JSON data usi
 
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
+## 6) CompSci 161 (Computer Security)
+**HW1:** Security Principles, C Memory Review, C Stack Layout, GDB, Buffer Overflow Intro
+
+**HW2:** Memory Safety Vulnerabilities (how to defeat stack canaries to exploit a program; identifying and preventing format string vulnerabilities), Block Ciphers, Padding, CBC Review, Padding Oracles
+
+**HW3:** Cryptography, Hashing Functions, El Gamal Encryption, Length Extension, Padding Oracle Lab
+CBC Padding Oracle Attack Lab: decrypted a message encrypted with AES-CBC using a padding oracle attack, 
+
+**HW4:** Finding Common Patients using Symmetric-Key Encryption and Hashing, PRNGs, Diffie-Hellman Walkthrough, Signatures, Certificates, Passwords
+
+**HW5:** SQL Injection, Web Security True/False, Snapitterbook, Go Tutorial, Project 2 Warm-Up (Threat Model, Design Requirements for Sharing, Receiving and Revoking), SQL Injection Lab
+SQL Injection Lab: Implemented a SQL Injection Attack 
+
+**HW6:** Network Security Intro (ARP, ARP Attack, DHCP, DHCP Attacks, BGP & IP, Defenses), Transport Layer (UDP, TCP Walkthrough, On-path TCP Hijacking, Off Path Attacker, Defenses), WPA on-path attacker, WPA in-path attacker, TLS
+
+**HW7:** DNA Walkthrough, DNS Amplification Attack, Intrusion Detection Systems, Protecting REGULUS (Default Design, Stateless Packet Filtering (Default-Allow, Default-Deny), Stateful Packet Filtering (with Redirection, Public VPNs, Private VPNs), Firewall Robustness, Malware, Tor Basics
+
+**Project 1 (Exploiting Memory Vulnerabilities):** Exploited a series of vulnerable programs on a virtual machine. This means that, if you provide a specially crafted input to the orbit program, you can cause it to execute your own, malicious code, called shellcode. We will write our input using Python 3, stored in an egg file. Whatever bytes are printed from the egg file will be sent as input to the vulnerable program. Note that at the top of all of our files, including the egg file. The shebang line tells the operating system that this executable should be run as a Python file:
+
+**Project 2 (An End-to-End Encrypted File Sharing System):**
+Applied the cryptographic primitives introduced in class to design and implement the client application for a secure file sharing system. File sharing system was similar to Dropbox, but secured with cryptography so that the server cannot view or tamper with your data. The client will be written in Golang and will allow users to take the following actions: authenticate with a username and password; save files to the server; load saved files from the server; overwrite saved files on the server; append to saved files on the server; share saved files with other users; and revoke access to previously shared files. Implementation used public-key encryption, digital signatures, Hash-Based Message Authentication Code (HMAC), Hash-Based Key Derivation Function (HashKDF), Password-Based Key Derivation Function (PBKDF), Symmetric Encryption, and Random-Byte Generators. 
+
+
+**Project 3 (Breaching a Vulnerable Web Server):**
+Exploited a poorly designed website by finding 8 vulnerabilities in the UnicornBox servers and implementing corresponding exploits. These included XSS attacks, CSRF attacks, and SQL Injection attacks. 
+
+
 ## 7) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 **Cyberus:** Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
