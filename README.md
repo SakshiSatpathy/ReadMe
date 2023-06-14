@@ -7,10 +7,10 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 4) CompSci C100 (Principles and Techniques of Data Science) 
 5) CompSci 189 (Introduction to Machine Learning)
-6) DATA C102 (Data, Inference, and Decisions)
-7) DATA 101 (Data Engineering) 
-8) EECS 126 (Probability and Random Processes)
-9) EECS 127 (Optimization Models in Engineering)
+6) EECS 127 (Optimization Models in Engineering)
+7) DATA C102 (Data, Inference, and Decisions)
+8) DATA 101 (Data Engineering) 
+9) EECS 126 (Probability and Random Processes)
 10) CompSci 161 (Computer Security)
 11) DES-INV 190-10 (Design and Cybersecurity) 
 12) CompSci 170 (Efficient Algorithms and Intractable Problems)
@@ -35,14 +35,12 @@ Selected Projects:
 ***Final Project:***
 The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introduces a way to train and run diffusion models at a much lower compute cost while still maintaining the sample quality. The paper’s approach can be broken down into 2 subtasks: training an autoencoder for dimensionality reduction and training a denoising UNet for the diffusion process on the latent space. Our group designed a problem set and corresponding solutions to guide students through both of the subtasks through 5 main questions. The first 2 questions encourage the students to read the paper and think about the pain points of traditional diffusion models, how latent diffusion models address them, and understand details on how the model is set up. The 3rd question guides the students through the important mathematical part of the diffusion model so they would be able to implement a simplified version of their own later on. The 4th question lets the students code their own simplified diffusion model on a simple dataset that is easy to visualize so they would understand all the components in training their own diffusion model. More details on each of the questions are listed in the commentary.pdf file in the project repository. The 5th question lets the students implement and train their own autoencoder (variational autoencoder) in the style of the paper, making them understand the different autoencoder loss terms and how each of them affects the reconstruction quality.
 
-***Twelve homeworks:***
-
-HW12:
+**HW12:**
 
 **Reinforcement Learning from Human Feedback:** Implemented the RLHF algorithm to solve a NLP task  (news summarization). First, generated multiple hypotheses for each input example using a small unlabeled training set. Second, obtained human feedback by having "humans" rank these hypotheses according to their quality. Third, trained a reward model that captures human preferences by fitting it to the collected human feedback. Fourth, leveraged the reward model to enhance our summarization model using reinforcement learning techniques.
 **Early Exit:** Implemented baseline ResNet and ResNet with Early Exit (Global average pooling, MLP layer of 128 nodes, ReLU, MLP layer of num_class nodes). Compared performance and outputs of early exit result and the final result. Did joint training (Training the entire network with all the exits at the same time). 
 
-HW11:
+**HW11:**
 
 **Policy Gradient in Reinforcement Learning:** Policy gradient at a high level approximates the gradient and then does gradient descent using this approximated gradient. Implemented policy gradient algorithm for neural networks, and compared accuracy with baseline supervised learning approach. 
 
@@ -50,7 +48,7 @@ HW11:
 
 **Generative Models:** Used PyTorch to implement the variational autoencoder (VAE) and learn a probabilistic model of the MNIST dataset of handwritten digits. Also trained a Generative Adversarial Network (GAN) on MNIST dataset.
 
-HW10: 
+**HW10:**
 
 **MAML:** Implemented Meta-Learning on 1-D Functions for both regression and classification. Also compared performance of the meta-learned feature weights with the case where all feature weights are 1, and with the case where the oracle is used (which performs logistic regression using only the features present in the data). 
 
@@ -58,45 +56,45 @@ HW10:
 
 **Quantization:** Quantized a classical neural network model to reduce both model size and latency. Specifically, implement and applied k-means quantization, quantization-aware training for k-means quantization, linear quantization, and integer-only inference for linear quantization. Then compared baseline net with quantized net performance. Also compared performance and tradeoffs between the above quantization approaches. 
 
-HW9:
+**HW9:**
 
 **MAE:** Implemented Vision Transformer (ViT) and trained it on CIFAR dataset. Also, implemented Masked Autoencoder (MAE).
 
 **Transformer for Summarization (Part I):** Implemented a Transformer using fundamental building blocks in PyTorch. Then applied the Transformer encoder-decoder model to a sequence-to-sequence NLP task: document summarization.
 
-HW8: 
+**HW8:**
 
 **Implemented transformer model:** Created a hand-designed transformer model capable of solving a basic problem. Analyzed the attention patterns of a trained network to gain insights into how learned models often utilize features that differ greatly from those employed by humans.
 
-HW7:
+**HW7:**
 
 **Autoencoders:** Implemented pretraining models with unsupervised learning and evaluating the learned representations with a linear classifier. Specifically, we will implemented three different architectures: Vanilla Autoencoder, Denoising Autoencoder, and Masked Autoencoder. 
 
-HW6:
+**HW6:**
 
 **LSTMs:** Implemented simple RNNs and LSTMs (Long short-term memory neural networks with feedback connections), then explored how gradients flow through these different networks.
 
 **RNN for Last Name Classification:** Trained a neural network to predict the probable language of origin for a given last name / family name in Latin alphabets. Firstly, preprocessed raw text data for suitable input into an RNN and LSTM. Then utilized PyTorch to train the recurrent neural network models. Finally, evaluated models’ performance and made predictions on unseen data.
 
-HW5: 
+**HW5:**
 
 **Graph Clustering:** Implemented k-means clustering algorithm. Also interpreted a dataset as a graph (interpreted every single point in the provided dataset as a node in a graph. The implemented adjacency matrix, stochastic matrix and SVD decomposition to relate every node in the graph is such way that they points that are closer together maintain that relationship while points that are farther are explicitly identified. Then performed k-means clustering on graph re-interpretation to improve performance of clustering for 3 classes. 
 
 **Zachary's Karate Club:** Trained a GNN (Graph Neural Network), specifically a multi-layer Graph Convolutional Network, to cluster people in the karate club in such that people who are more likely to associate with either the officer or Mr. Hi will be close together, while the distance beween the 2 classes will be far. 
 
-HW4: 
+**HW4:**
 
 **Dropout:** Explored the effect of dropout on a simple gradient descent problem. Specifically trained weights to solve linear equation where weights initialized to be 0. Formulated question as OLS optimization problem. Compared performance of the following layers on network (trained on CIFAR-10 dataset): *No dropout + Least-Squares* vs. *No dropout + Gradient Descent* vs. *Dropout + Least-Squares* vs. *Dropout + Gradient Descent*
 
 **Edge Detection:** Implemented and compared convolutional neural networks (CNNs) and multi-layer perceptrons (MLPs) to understand what is inductive bias and how it affects the learning process, and to conduct systematic ML experiments. Used the edge detection task to study the inductive bias of CNN. Specifically, generated synthetic dataset, and made models overfit this small dataset to test model architecture. 
 
-HW3: 
+**HW3:** 
 
 **Hand-Designing Filters:** Designed convolution filters by hand to understand the operation of convolution. Specifically, designed simple blurring (Averaging filter) and edge detection (Laplacian derivative) filters. 
 
 **CNN with PyTorch:** Practiced writing backpropagation code and training Neural Networks. Specifically, implemented spatial batch normalization (forward and backward pass), different layer types for 3-layer convolutional network (convolutional forward pass, convolutional backward pass, max pooling). Checked performance with gradient check and implementing loss functions. 
 
-HW2: 
+**HW2:**
 
 **Fully Connected Net with PyTorch from HW1:** Implemented Two Layer  fully-connected neural network with ReLU nonlinearity and softmax loss (affine - relu - affine - softmax). Instead of gradient descent, interacts with Solver object that runs optimization (see below). 
 
@@ -107,12 +105,13 @@ HW2:
 **Linearization (Part 2):** Trained a 1-hidden layer neural network using Stochastic Gradient Descent with Momentum. Visualized this model using local linearization (first-order Taylor expansion) and visualized decomposition of principle components using SVD decomposition. 
 
 
-HW1: 
+**HW1:**
 
 **Linearization (Part 1):** Learned the piecewise linear target function using a simple 1-hidden layer neural network with ReLU non-linearity. Also created two SGD optimizers to choose whether to train all parameters or only the linear output layer's parameters. Implemented several versions of this network with varying widths to explore how hidden layer width impacts learning performance.
 
 **Fully Connected Net with PyTorch:** Implemented two-layer fully-connected network using a modular approach. For each layer (affine, ReLU non-linearity), implemented a forward and a backward function. Additionally, implemented Softmax and SVM loss functions. Final architecture was affine - relu - affine - softmax, and uses gradient descent for optimization.
 
+----------------------------------------
 ## 2) CompSci C100 (Principles and Techniques of Data Science)
 
 **(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
