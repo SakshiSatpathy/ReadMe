@@ -233,8 +233,14 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 
 **(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
+---
 
-EECS 126 (Probability and Random Processes) Labs
+## 8) INFO 159 (Natural Language Processing) Final Project
+Designed and implemented a new document classification task Annotation Project to understand if, when given restaurant reviews from the Yelp dataset, one can discern the level of dining (fast food dining, casual dining, fine dining) based on the word and phrase descriptors within the review text bodies, and internal features during the machine learning process. Designed annotation task subject study, developed comprehensive guidelines for consistent third-party annotations, validated label-specific patterns through measuring the inter-annotator agreement rate and external feedback, and built several classifiers (logistic regression, BERT), comparing different models (eg. BERT, Bag of Words with L2 regularization, TD-IDF with L2 regularization, combined word-phrase features) and conducting a robust error analysis and report for future improvements to improve accuracy and class imbalance captured through the classifier performance based on the developed annotation guidelines.   
+
+---
+
+## 9) EECS 126 (Probability and Random Processes) Labs
 
 **Nine labs tackling real-world challenges such as:**
 
@@ -254,8 +260,9 @@ EECS 126 (Probability and Random Processes) Labs
 
 (c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
 
+---
 
-## 6) CompSci 161 (Computer Security)
+## 10) CompSci 161 (Computer Security)
 **HW1:** Security Principles, C Memory Review, C Stack Layout, GDB, Buffer Overflow Intro
 
 **HW2:** Memory Safety Vulnerabilities (how to defeat stack canaries to exploit a program; identifying and preventing format string vulnerabilities), Block Ciphers, Padding, CBC Review, Padding Oracles
@@ -281,8 +288,9 @@ Applied the cryptographic primitives introduced in class to design and implement
 **Project 3 (Breaching a Vulnerable Web Server):**
 Exploited a poorly designed website by finding 8 vulnerabilities in the UnicornBox servers and implementing corresponding exploits. These included XSS attacks, CSRF attacks, and SQL Injection attacks. 
 
+---
 
-## 7) DES-INV 190-10 (Design and Cybersecurity) Final Project
+## 11) DES-INV 190-10 (Design and Cybersecurity) Final Project
 
 **Cyberus:** Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
 
@@ -298,7 +306,9 @@ Users can:
 
 (e) buy custom-designed surveillance camera covers which are sensor-enabled and close surveillance cameras in the event of a ransomware or city-wide cyber breach. This prevents surveillance misuse by unauthorized parties.  
 
-## 8) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
+---
+
+## 12) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
 **Final Project:**
 Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
 
@@ -314,10 +324,9 @@ Theory: NP completeness, Approximation algorithms
 
 Security: Hashing, Huffman Codes
 
-## 9) INFO 159 (Natural Language Processing) Final Project
-Designed and implemented a new document classification task Annotation Project to understand if, when given restaurant reviews from the Yelp dataset, one can discern the level of dining (fast food dining, casual dining, fine dining) based on the word and phrase descriptors within the review text bodies, and internal features during the machine learning process. Designed annotation task subject study, developed comprehensive guidelines for consistent third-party annotations, validated label-specific patterns through measuring the inter-annotator agreement rate and external feedback, and built several classifiers (logistic regression, BERT), comparing different models (eg. BERT, Bag of Words with L2 regularization, TD-IDF with L2 regularization, combined word-phrase features) and conducting a robust error analysis and report for future improvements to improve accuracy and class imbalance captured through the classifier performance based on the developed annotation guidelines.   
- 
-## 10) CompSci 160 (User Interface Design and Development) Projects
+---
+
+## 13) CompSci 160 (User Interface Design and Development) Projects
 
 **(a) Auxilium:** Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
@@ -329,7 +338,9 @@ Designed and implemented a new document classification task Annotation Project t
 
 **(e) Leisure Traveler:** Weather-based trip recommendation web app. Users set temperature preferences, so cities are categorized LAZY SAFE, UNSAFE, or STORM. They can then search for a city to view its temperature, precipitation, wind, and smog level over time, add the city to the Comparison List, Favorite it, or read travelers’ reviews. Users can also compare cities’ forecasts, and navigate using the GPS. Users can check the weather mid-trip, and switch location if the weather is LAZY UNSAFE. In case of disaster, users get alerted, and can find the city’s attractions, post on social media, and upload reviews.
 
-## 11) CompSci 61B (Data Structures) Projects
+---
+
+## 14) CompSci 61B (Data Structures) Projects
 
 **(a) Gitlet:** Designed and created version-control system with a subset of Git’s features, including the init,add, commit, rm, log, status, branch, rm-branch. Implemented serialization to store and read objects, used all data structure knowledge to initialize directories, generate  files, update branches and versions through objects and classes for each command. 
 
@@ -339,8 +350,9 @@ Designed and implemented a new document classification task Annotation Project t
 
 **(d) Signpost:** Recreated the puzzle game Signpost, which is one of Simon Tatham's collection of GUI games. Given an incomplete Java Model-View-Controller program that creates these puzzles and allows its user to solve them, created a board in the Model class with all variables required to capture its state at any given time, used the Place class to access and modify the position of players, wrote methods to randomly generate new games in the Puzzle Generator class, and modified the Board Widget class to display the puzzle board.
 
+---
 
-## 12) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
+## 15) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
 
 **(a) Scheme Interpreter:** developed a Python interpreter for a subset of the Scheme language. After examining the design of our target language, built an interpreter with functions that read Scheme expressions, evaluate them, and display the results. Used all knowledge learned from CompSci 61a to apply to this final project. 
 
@@ -362,10 +374,14 @@ Selected Projects:
 ## 1) ECON 140 (Economic Statistics and Econometrics)
 **Impact of Internet Access, Restaurant Workers, and Senior Citizens on Early COVID-19 Fatality rates [Language: Python (Pandas) and R]:** Evaluated the impact of internet access, magnitude of the service industry, and old age on early COVID-19 fatality rates in the US. Decided on a Multiple Linear Regression (MLR) model to jointly capture the impact of the natural log of all three variables on the log of proportion of COVID-19 cases in April 2020. The model was correctly specified after testing various relationships between the variables, ensuring roughly homoskedastic data, the expected error of our model being 0, with no perfect collinearity, and with attempt to introduce effective instrumental variables to reduce correlation between the variables and error term. 
 
+---
+
 ## 2) Statistics 20 (Introduction to Probability and Statistics)
 **(a) COVID-19 Pandemic Effects on Economy, Society, & Environment [Language: R]:** In regards to the economy, examined the housing market and change in rent prices. To analyze societal impacts, looked at many different characteristics such as the effectiveness of health insurances when many people require it at once, the effectiveness of lock-downs on controlling the spread of the virus, the negative side-effects of lockdowns such as depression, and how the lack of travel and mobility from the pandemic
 has affected our environment. Used various statiscal inferences to detemine our conclusions on the pandemic, such as the hypothesis testing and regression.
 
 **(b) Maternal Health and Smoking Relationship [Language: R]:** Visualized relationship between maternal health and smoking after accounting for confounding variables and limitations of observational studies conducted. Used ggplot functions to clean and subset the data, examine and analyze numerical summaries, and created various visualizations using geomplot.
+
+---
 
 For viewing code from these above projects, labs and homework, please send me requests at sakshi.satpathy@berkeley.edu so that I know you are not a student in the class. 
