@@ -6,19 +6,18 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 3) CompSci 189 (Introduction to Machine Learning)
-6) EECS 127 (Optimization Models in Engineering)
-7) DATA C102 (Data, Inference, and Decisions)
-8) DATA 101 (Data Engineering)
-9) CompSci C100 (Principles and Techniques of Data Science) 
-10) EECS 126 (Probability and Random Processes)
-11) CompSci 161 (Computer Security)
-12) DES-INV 190-10 (Design and Cybersecurity) 
-13) CompSci 170 (Efficient Algorithms and Intractable Problems)
-14) INFO 159 (Natural Language Processing)
+4) EECS 127 (Optimization Models in Engineering)
+5) DATA 101 (Data Engineering)
+6) DATA C102 (Data, Inference, and Decisions)
+7) CompSci C100 (Principles and Techniques of Data Science)
+8) INFO 159 (Natural Language Processing)
+9) EECS 126 (Probability and Random Processes)
+10) CompSci 161 (Computer Security)
+11) DES-INV 190-10 (Design and Cybersecurity)
+12) CompSci 170 (Efficient Algorithms and Intractable Problems)
 15) CompSci 160 (User Interface Design and Development)
 16) CompSci 61B (Data Structures) 
 17) CompSci 61A (Structure and Interpretation of Computer Programs) 
-
 
 Selected Projects:
 
@@ -112,13 +111,6 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 
 **Fully Connected Net with PyTorch:** Implemented two-layer fully-connected network using a modular approach. For each layer (affine, ReLU non-linearity), implemented a forward and a backward function. Additionally, implemented Softmax and SVM loss functions. Final architecture was affine - relu - affine - softmax, and uses gradient descent for optimization.
 
-----------------------------------------
-## 2) CompSci C100 (Principles and Techniques of Data Science)
-
-**(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
-
-**(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
-
 ---
 
 ## 3) CompSci 189 (Introduction to Machine Learning) Homeworks:
@@ -152,8 +144,21 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 ---
+## 5) DATA 101 (Data Engineering) Projects
+**(a) Project 1: SQL**
+Worked with SQL on the IMDB database to explore and extract relevant information from database with SQL functions, perform data cleaning and transformation using string functions and regex, and use the cleaned data to run insightful analysis using joins, aggregations, and window functions
 
-## 3) DATA C102 (Data, Inference and Decisions) Final Project and Classwork
+**(b) Project 2: Query Performance**
+Worked with the Lahman's Baseball Database to explore how the database system optimizes query execution (and how users can further tune the performance of their queries using index selection, properties of query processing, and query optimization. 
+
+**(c) Project 3: Data Transformation**
+Worked with one month of unstructured sensor data from UC Berkeley buildings. Used data prep, data cleaning, normalization, entity resolution, linear interpolation, and outlier handling to transform the data to make it usable for data pipelines. 
+
+**(d) Project 4: Mongo**
+Investigated how different database systems handle semi-structured JSON data using MongoDB, Postgres SQL and Pandas. Worked with the Yelp Academic Dataset to understand what Mongo can (and cannot) do with regards to its documents as a NoSQL datastore and compare and contrast this to other data representation formats such as the relational model.
+
+---
+## 6) DATA C102 (Data, Inference and Decisions) Final Project and Classwork
 
 **Final Project:**
 
@@ -220,21 +225,16 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 2. Coding the UCB algorithm and computing pseudo-regret: 
 3. Comparing the distributions of the rewards by also plotting them on the same plot and briefly justify the salient differences 
 
-## 4) DATA 101 (Data Engineering) Projects
-**(a) Project 1: SQL**
-Worked with SQL on the IMDB database to explore and extract relevant information from database with SQL functions, perform data cleaning and transformation using string functions and regex, and use the cleaned data to run insightful analysis using joins, aggregations, and window functions
+---
 
-**(b) Project 2: Query Performance**
-Worked with the Lahman's Baseball Database to explore how the database system optimizes query execution (and how users can further tune the performance of their queries using index selection, properties of query processing, and query optimization. 
+## 7) CompSci C100 (Principles and Techniques of Data Science)
 
-**(c) Project 3: Data Transformation**
-Worked with one month of unstructured sensor data from UC Berkeley buildings. Used data prep, data cleaning, normalization, entity resolution, linear interpolation, and outlier handling to transform the data to make it usable for data pipelines. 
+**(a) Email Spam Filter:** Built a filter after training data (reading, cleaning, feature engineering, modelling, fitting, split+testing) on logistic classifier. Bettered the model after extensive feature engineering through correlation plotting and visualization to eliminate multicollinearity, also using cross-validation and regularization during the multiple rounds of training to minimize bias and variance on unseen data. Achieved 99% training accuracy and 98% test accuracy.
 
-**(d) Project 4: Mongo**
-Investigated how different database systems handle semi-structured JSON data using MongoDB, Postgres SQL and Pandas. Worked with the Yelp Academic Dataset to understand what Mongo can (and cannot) do with regards to its documents as a NoSQL datastore and compare and contrast this to other data representation formats such as the relational model.
+**(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
 
-## 5) EECS 126 (Probability and Random Processes) Labs
+EECS 126 (Probability and Random Processes) Labs
 
 **Nine labs tackling real-world challenges such as:**
 
