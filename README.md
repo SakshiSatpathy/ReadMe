@@ -29,10 +29,11 @@ Selected Projects:
 
 **Assignment 2:** Created model for multi-view reconstruction that recovers the 3D shape of an object given its image from two different viewpoints. In particular, given 2D point correspondences in the 2 images, estimated their 3D position in the scene and also estimate the camera positions and orientations. Implemented camera model, fundamental matrix, essential matrix, eight-point algorithm, estimated extrinsic camera Parameters from the essential matrix, and triangulation. 
 
+-----
 
 ## 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 
-***Final Project:***
+**Final Project:**
 The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introduces a way to train and run diffusion models at a much lower compute cost while still maintaining the sample quality. The paper’s approach can be broken down into 2 subtasks: training an autoencoder for dimensionality reduction and training a denoising UNet for the diffusion process on the latent space. Our group designed a problem set and corresponding solutions to guide students through both of the subtasks through 5 main questions. The first 2 questions encourage the students to read the paper and think about the pain points of traditional diffusion models, how latent diffusion models address them, and understand details on how the model is set up. The 3rd question guides the students through the important mathematical part of the diffusion model so they would be able to implement a simplified version of their own later on. The 4th question lets the students code their own simplified diffusion model on a simple dataset that is easy to visualize so they would understand all the components in training their own diffusion model. More details on each of the questions are listed in the commentary.pdf file in the project repository. The 5th question lets the students implement and train their own autoencoder (variational autoencoder) in the style of the paper, making them understand the different autoencoder loss terms and how each of them affects the reconstruction quality.
 
 **HW12:**
@@ -118,7 +119,9 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 
 **(b) Food Safety:** Investigated San Francisco restaurant food safety scores using SQL and Pandas to clean and visualize data for valid zipcodes, examining lowest and highest scores’s violations over time, and progress in ratings over multiple inspections. Personally designed experiment to explore  potential causes of missing scores usually removed: found Complaints, New Ownership, and Reinspection/Followup to be leading correlators. 
 
-## 2) CompSci 189 (Introduction to Machine Learning) Homeworks:
+---
+
+## 3) CompSci 189 (Introduction to Machine Learning) Homeworks:
 
 **Seven homeworks on the following Machine Learning topics:**
 
@@ -135,6 +138,20 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 (f) Principal Component Analysis (PCA), Clustering, Neural Networks
 
 (g) Convolutional Neural Networks, Transformers, Unsupervised Learning Methods, and Recommender Systems. 
+
+---
+
+## 4) EECS 127 (Optimization Models in Engineering) HomeWork
+
+**Problem sets/homework on the following topics:**
+
+(a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
+
+(b) Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models (including LP, QP, GP, SOCP), and Robustness
+
+(c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
+
+---
 
 ## 3) DATA C102 (Data, Inference and Decisions) Final Project and Classwork
 
@@ -237,15 +254,6 @@ Investigated how different database systems handle semi-structured JSON data usi
 
 (c) Applications of probability (LLSE, MMSE, Kalman Filtering, Tracking) 
 
-## 6) EECS 127 (Optimization Models in Engineering) HomeWork
-
-**Problem sets/homework on the following topics:**
-
-(a) Linear Algebra concepts (including vectors, projections, matrices, symmetric matrices, Linear equations, least-squares and minimum-norm problems, SVD, PCA and related optimization problems)
-
-(b) Convex Optimization problems on convex sets, convex functions, KKT optimality conditions, duality (weak and strong), Slater's condition, special convex models (including LP, QP, GP, SOCP), and Robustness
-
-(c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 ## 6) CompSci 161 (Computer Security)
 **HW1:** Security Principles, C Memory Review, C Stack Layout, GDB, Buffer Overflow Intro
