@@ -2,6 +2,14 @@
 
 Note: As of June 2023, there are 25 (20 private, 5 public) repositories with coding projects
 
+This Github (SakshiSatpathy) has private code from homework, labs and projects from the following Computer Vision and Computer Science graduate courses I have taken at Columbia:
+1) Deep Learning for Computer Vision
+2) Computer Graphics
+3) Computer Vision Research Topics
+4) Advanced Algorithms
+5) Advanced Software Engineering
+6) Graduate Computer Vision Research (Ongoing)
+
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
