@@ -2,6 +2,8 @@
 
 Note: As of June 2025, there are 25 (22 private, 10 public) repositories with coding projects
 
+----------------------------------------------------
+
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following Computer Vision and Computer Science graduate courses I have taken at Columbia:
 1) Deep Learning for Computer Vision
 2) Computer Graphics
