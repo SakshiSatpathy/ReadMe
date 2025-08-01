@@ -39,6 +39,8 @@ Select project descriptions:
 **3D computer vision**: 
 - Masked 3D face reconstruction using 3DMMs+GANs
 
+----------------------------------------------------------------------------------------
+
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
