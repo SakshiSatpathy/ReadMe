@@ -1,6 +1,6 @@
 # (A) Computer Science Projects' Description 
 
-Note: As of June 2023, there are 25 (20 private, 5 public) repositories with coding projects
+Note: As of June 2025, there are 25 (22 private, 10 public) repositories with coding projects
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following Computer Vision and Computer Science graduate courses I have taken at Columbia:
 1) Deep Learning for Computer Vision
@@ -8,7 +8,16 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 3) Computer Vision Research Topics
 4) Advanced Algorithms
 5) Advanced Software Engineering
-6) Graduate Computer Vision Research (Ongoing)
+6) Graduate Computer Vision Research
+
+Select project descriptions:
+● Semantic segmentation (segmenting aerial views for disaster classification, segmenting face masks from faces for masked facial recognition using SAM)
+● Image classification (building vision transformers for classifying handwritten digits)
+● Object detection (correctly-placed COVID face mask detection for healthcare administration)
+● Object recognition and tracking (recognizing faces amongst pictures and videos of crowds using YOLOv8)
+● Image processing (using PCA to increase clarity in dog pictures, deriving a Gibbs sampling algorithm to restore corrupted images, morphological processing in MATLAB)
+● Model performance improvement (optimizing Vision Foundation Models for more accurate Masked 3D Face Reconstruction, using denoising diffusion and knowledge distillation to improve facial landmark detection models, evaluating vision transformers like DeiT and Swin Transformers for masked facial recognition)
+● 3D computer vision (masked 3D face reconstruction using 3DMMs+GANs)
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 280 (Graduate Computer Vision)
