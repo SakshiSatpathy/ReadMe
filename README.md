@@ -11,6 +11,7 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 6) Graduate Computer Vision Research
 
 Select project descriptions:
+
 **Semantic segmentation**: 
 - Segmenting aerial views for disaster classification
 - Segmenting face masks from faces for masked facial recognition using SAM)
