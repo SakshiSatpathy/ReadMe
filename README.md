@@ -11,13 +11,32 @@ This Github (SakshiSatpathy) has private code from homework, labs and projects f
 6) Graduate Computer Vision Research
 
 Select project descriptions:
-● Semantic segmentation (segmenting aerial views for disaster classification, segmenting face masks from faces for masked facial recognition using SAM)
-● Image classification (building vision transformers for classifying handwritten digits)
-● Object detection (correctly-placed COVID face mask detection for healthcare administration)
-● Object recognition and tracking (recognizing faces amongst pictures and videos of crowds using YOLOv8)
-● Image processing (using PCA to increase clarity in dog pictures, deriving a Gibbs sampling algorithm to restore corrupted images, morphological processing in MATLAB)
-● Model performance improvement (optimizing Vision Foundation Models for more accurate Masked 3D Face Reconstruction, using denoising diffusion and knowledge distillation to improve facial landmark detection models, evaluating vision transformers like DeiT and Swin Transformers for masked facial recognition)
-● 3D computer vision (masked 3D face reconstruction using 3DMMs+GANs)
+**Semantic segmentation**: 
+- Segmenting aerial views for disaster classification
+- Segmenting face masks from faces for masked facial recognition using SAM)
+
+
+**Image classification**:
+- Building vision transformers for classifying handwritten digits
+
+**Object detection**: 
+- Correctly-placed COVID face mask detection for healthcare administration
+  
+**Object recognition and tracking**:
+- Recognizing faces amongst pictures and videos of crowds using YOLOv8
+
+**Image processing**: 
+- Using PCA to increase clarity in dog pictures
+- Deriving a Gibbs sampling algorithm to restore corrupted images
+- Morphological processing in MATLAB
+  
+**Model performance improvement**: 
+- Optimizing Vision Foundation Models for more accurate Masked 3D Face Reconstruction
+- Using denoising diffusion and knowledge distillation to improve facial landmark detection models
+- Evaluating vision transformers like DeiT and Swin Transformers for masked facial recognition
+
+**3D computer vision**: 
+- Masked 3D face reconstruction using 3DMMs+GANs
 
 This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 280 (Graduate Computer Vision)
