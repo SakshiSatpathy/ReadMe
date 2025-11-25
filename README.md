@@ -1,6 +1,19 @@
 # (A) Computer Science Projects' Description 
 
-Note: As of June 2025, there are 25 (22 private, 10 public) repositories with coding projects
+Note: As of November 2025, there are 25 (22 private, 10 public) repositories with coding projects
+
+----------------------------------------------------
+This Github (SakshiSatpathy) has private code from personal agentic AI projects I have implemented post-graduation from Columbia MS (June-Nov 2025):
+
+Project 1: Email Auto-Responder Agent:  Built autonomous agent that reads incoming emails, classifies intent, drafts context-aware replies using an LLM, and automatically sends appropriate responses. Built planning logic, safety checks, and a multi-step pipeline for high accuracy in business communication. Pipeline included LLM planning + Gmail API + Lite Memory Store (JSON) + zero-shot intent classification.
+
+Project 2: File Organizer Agent: Created agent that continuously monitors a filesystem, interprets file contents using an LLM, categorizes them, and applies automated actions such as renaming, folder organization, and cleanup. Pipeline included Watchdog file events + LLM file classification + tool-use action invocation.
+
+Project 3: YouTube Learning Agent: Built a multimodal agent that ingests long-form educational videos, summarizes key concepts, generates quizzes, and constructs personalized learning sessions using agentic planning and retrieval. Pipeline included transcript extraction + chunking + hierarchical summaries + LLM concept mining.
+
+Project 4: Financial Data Monitoring Agent: Created an autonomous financial agent that fetches stock data, performs trend analysis, detects anomalies, and issues human-readable reports and alerts using LLM synthesis. Pipeline included Yahoo Finance API + indicator computation + LLM report writer.
+
+Project 5: Autonomous Data Labeling Agent: Built autonomous system that transforms raw unlabelled images into a clean, semantically labeled dataset using DINOv2 visual embeddings, HDBSCAN clustering, and a local LLaMA-3.1 model for label generation and refinement. The agent performs semantic grouping, cluster naming, quality checks, and dataset export in COCO format.
 
 ----------------------------------------------------
 
