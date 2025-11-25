@@ -3,7 +3,7 @@
 Note: As of November 2025, there are 25 (22 private, 10 public) repositories with coding projects
 
 ----------------------------------------------------
-This Github (SakshiSatpathy) has private code from personal agentic AI projects I have implemented post-graduation from Columbia MS (June-Nov 2025):
+This Github (SakshiSatpathy) has private code from personal agentic AI projects I have implemented after graduating from Columbia MS (June-Nov 2025):
 
 Project 1: Email Auto-Responder Agent:  Built autonomous agent that reads incoming emails, classifies intent, drafts context-aware replies using an LLM, and automatically sends appropriate responses. Built planning logic, safety checks, and a multi-step pipeline for high accuracy in business communication. Pipeline included LLM planning + Gmail API + Lite Memory Store (JSON) + zero-shot intent classification.
 
