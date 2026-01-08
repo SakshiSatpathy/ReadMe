@@ -1,19 +1,19 @@
 # (A) Computer Science Projects' Description 
 
-Note: As of November 2025, there are 25 (22 private, 10 public) repositories with coding projects
+Note: As of Jan 2026, there are 25 (22 private, 10 public) repositories with coding projects
 
 ----------------------------------------------------
-This Github (SakshiSatpathy) describes code from personal agentic AI projects I have implemented after graduating from Columbia MS (June-Nov 2025):
+This Github (SakshiSatpathy) describes code from agentic AI projects I have implemented after graduating from Columbia MS (June-Nov 2025):
 
-Project 1: Email Auto-Responder Agent:  Built autonomous agent that reads incoming emails, classifies intent, drafts context-aware replies using an LLM, and automatically sends appropriate responses. Built planning logic, safety checks, and a multi-step pipeline for high accuracy in business communication. Pipeline included LLM planning + Gmail API + Lite Memory Store (JSON) + zero-shot intent classification.
+Proj 1: Email Auto-Responder Agent (LLM + Planning + Safety): Designed and implemented  autonomous email-response agent that classifies intent, plans multi-step responses, and generates context-aware replies using an LLM. Implemented explicit intent confidence thresholds, policy-based safety checks, and human fallback triggers to prevent erroneous or unsafe responses. Built a modular pipeline integrating LLM-based planning, Gmail API, and a lightweight persistent memory store for conversation context. Evaluated system performance using intent accuracy, response appropriateness, and false-positive auto-send rate.
 
-Project 2: File Organizer Agent: Created agent that continuously monitors a filesystem, interprets file contents using an LLM, categorizes them, and applies automated actions such as renaming, folder organization, and cleanup. Pipeline included Watchdog file events + LLM file classification + tool-use action invocation.
+Proj 2: Autonomous File Organization Agent: Built  event-driven agent that monitors filesystem changes and autonomously categorizes and organizes files using LLM-based semantic understanding. Designed a tool-use execution layer with pre-action validation, dry-run simulation, and reversible operations to ensure safety and auditability. Integrated Watchdog-based event detection with LLM classification and action invocation, and logged all agent decisions for traceability. Evaluated categorization consistency and error recovery behavior.
 
-Project 3: YouTube Learning Agent: Built a multimodal agent that ingests long-form educational videos, summarizes key concepts, generates quizzes, and constructs personalized learning sessions using agentic planning and retrieval. Pipeline included transcript extraction + chunking + hierarchical summaries + LLM concept mining.
+Proj 3: Multimodal Learning Assistant Agent for Long-Form Video Content: Developed  agentic learning system that processes long-form educational videos into structured knowledge representations, including hierarchical summaries, concept graphs, and auto-generated assessments. Implemented chunking, retrieval, and planning mechanisms to construct personalized learning sessions and quizzes. Designed adaptive learning flows based on user performance signals and evaluated output quality using concept coverage, quiz coherence, and summarization faithfulness.
 
-Project 4: Financial Data Monitoring Agent: Created an autonomous financial agent that fetches stock data, performs trend analysis, detects anomalies, and issues human-readable reports and alerts using LLM synthesis. Pipeline included Yahoo Finance API + indicator computation + LLM report writer.
+Proj 4: Autonomous Financial Data Monitoring & Reporting Agent: Built  autonomous financial monitoring agent that ingests market data, computes technical indicators, detects anomalous trends, and synthesizes human-readable analytical reports. Implemented rule-based and statistical anomaly detection combined with LLM summarization for interpretability. Incorporated confidence-aware alerting to reduce false positives and evaluated detection consistency against historical market patterns. Designed system for extensibility across assets and real-time alerting workflows.
 
-Project 5: Autonomous Data Labeling Agent: Built autonomous system that transforms raw unlabelled images into a clean, semantically labeled dataset using DINOv2 visual embeddings, HDBSCAN clustering, and a local LLaMA-3.1 model for label generation and refinement. The agent performs semantic grouping, cluster naming, quality checks, and dataset export in COCO format.
+Proj 5: Autonomous Dataset Labeling Agent (Vision Foundation Models): Designed an autonomous data labeling system that converts raw, unlabeled image collections into structured, high-quality datasets using DINOv2 visual embeddings, HDBSCAN clustering, and a local LLaMA-based semantic labeling agent. Agent performs semantic grouping, cluster naming, label refinement, and quality validation, producing datasets in COCO format. Evaluated label coherence and cluster purity.
 
 ----------------------------------------------------
 
