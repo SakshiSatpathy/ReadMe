@@ -1,9 +1,9 @@
 # (A) Computer Science Projects' Description 
 
-Note: As of Jan 2026, there are 25 (22 private, 10 public) repositories with coding projects
+Note: As of March 2026, there are 24 private repositories with coding projects. 
 
 ----------------------------------------------------
-This Github (SakshiSatpathy) describes code from agentic AI projects I have implemented after graduating from Columbia MS (June-Nov 2025):
+## (A) Agentic AI Projects' Description:
 
 Proj 1: Email Auto-Responder Agent (LLM + Planning + Safety): Designed and implemented  autonomous email-response agent that classifies intent, plans multi-step responses, and generates context-aware replies using an LLM. Implemented explicit intent confidence thresholds, policy-based safety checks, and human fallback triggers to prevent erroneous or unsafe responses. Built a modular pipeline integrating LLM-based planning, Gmail API, and a lightweight persistent memory store for conversation context. Evaluated system performance using intent accuracy, response appropriateness, and false-positive auto-send rate.
 
