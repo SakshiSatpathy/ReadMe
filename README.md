@@ -1,6 +1,7 @@
 # Coding Projects' Description 
 
-Note: As of March 2026, there are 24 private repositories with coding projects in this Github account (SakshiSatpathy). 
+Note: As of March 2026, this Github account (SakshiSatpathy) has 24 private repositories with coding projects. 
+For viewing code from these above projects, labs and homework, please send me requests at sakshi.satpathy@berkeley.edu so that I know you are not a student in the class. 
 
 ----------------------------------------------------
 ## (A) Agentic AI Projects' Description:
@@ -18,6 +19,7 @@ Proj 5: Autonomous Dataset Labeling Agent (Vision Foundation Models): Designed a
 ----------------------------------------------------
 ## (B) Coding Projects from Columbia University:
 
+Courses: 
 1) Deep Learning for Computer Vision
 2) Computer Graphics
 3) Computer Vision Research Topics
@@ -25,7 +27,7 @@ Proj 5: Autonomous Dataset Labeling Agent (Vision Foundation Models): Designed a
 5) Advanced Software Engineering
 6) Graduate Computer Vision Research
 
-Select project descriptions:
+Select project descriptions from the above courses:
 
 **Semantic segmentation**: 
 - Segmenting aerial views for disaster classification
@@ -57,6 +59,7 @@ Select project descriptions:
 ----------------------------------------------------------------------------------------
 ## (C) Coding Projects from University of California, Berkeley:
 
+Courses:
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 3) CompSci 189 (Introduction to Machine Learning)
@@ -75,7 +78,7 @@ Select project descriptions:
 16) ECON 140 (Economic Statistics and Econometrics)
 17) Statistics 20 (Introduction to Probability and Statistics)
 
-Selected Projects:
+Select Projects, HWs, and Labs from the above relevant courses:
 
 ## 1) CompSci 280 (Graduate Computer Vision)
 **Final Project:** Facial Landmark Detection detects and localizes points such as the eyes, nose, mouth, and chin. Designed project and applied different combinations of architectures and frameworks—specifically, different U-nets, knowledge distillation and denoting diffusion—to improve the performance of facial landmark detection using deep learning. 
@@ -169,7 +172,7 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 
 ---
 
-## 3) CompSci 189 (Introduction to Machine Learning) Homeworks:
+## 3) CompSci 189 (Introduction to Machine Learning):
 
 **Seven homeworks on the following Machine Learning topics:**
 
@@ -189,7 +192,7 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 
 ---
 
-## 4) EECS 127 (Optimization Models in Engineering) HomeWork
+## 4) EECS 127 (Optimization Models in Engineering)
 
 **Problem sets/homework on the following topics:**
 
@@ -200,7 +203,7 @@ The paper *High-Resolution Image Synthesis with Latent Diffusion Models* introdu
 (c) Optimization applications including Machine Learning, Control Systems, Engineering design, and Finance
 
 ---
-## 5) DATA 101 (Data Engineering) Projects
+## 5) DATA 101 (Data Engineering)
 **(a) Project 1: SQL**
 Worked with SQL on the IMDB database to explore and extract relevant information from database with SQL functions, perform data cleaning and transformation using string functions and regex, and use the cleaned data to run insightful analysis using joins, aggregations, and window functions
 
@@ -214,7 +217,7 @@ Worked with one month of unstructured sensor data from UC Berkeley buildings. Us
 Investigated how different database systems handle semi-structured JSON data using MongoDB, Postgres SQL and Pandas. Worked with the Yelp Academic Dataset to understand what Mongo can (and cannot) do with regards to its documents as a NoSQL datastore and compare and contrast this to other data representation formats such as the relational model.
 
 ---
-## 6) DATA C102 (Data, Inference and Decisions) Final Project and Classwork
+## 6) DATA C102 (Data, Inference and Decisions)
 
 **Final Project:**
 
@@ -291,12 +294,13 @@ Part 2: I also implemented code that retrieved the optimal policy from the optim
 
 ---
 
-## 8) INFO 159 (Natural Language Processing) Final Project
+## 8) INFO 159 (Natural Language Processing) 
+**Final Project:**
 Designed and implemented a new document classification task Annotation Project to understand if, when given restaurant reviews from the Yelp dataset, one can discern the level of dining (fast food dining, casual dining, fine dining) based on the word and phrase descriptors within the review text bodies, and internal features during the machine learning process. Designed annotation task subject study, developed comprehensive guidelines for consistent third-party annotations, validated label-specific patterns through measuring the inter-annotator agreement rate and external feedback, and built several classifiers (logistic regression, BERT), comparing different models (eg. BERT, Bag of Words with L2 regularization, TD-IDF with L2 regularization, combined word-phrase features) and conducting a robust error analysis and report for future improvements to improve accuracy and class imbalance captured through the classifier performance based on the developed annotation guidelines.   
 
 ---
 
-## 9) EECS 126 (Probability and Random Processes) Labs
+## 9) EECS 126 (Probability and Random Processes)
 
 **Nine labs tackling real-world challenges such as:**
 
@@ -346,8 +350,9 @@ Exploited a poorly designed website by finding 8 vulnerabilities in the UnicornB
 
 ---
 
-## 11) DES-INV 190-10 (Design and Cybersecurity) Final Project
+## 11) DES-INV 190-10 (Design and Cybersecurity)
 
+**Final Project:**
 **Cyberus:** Designed a one-stop-shop app for smart city stakeholders (residents, government, businesses) to understand and safeguard themselves using existing cybersecurity and privacy protections. 
 
 Users can:
@@ -364,7 +369,7 @@ Users can:
 
 ---
 
-## 12) CompSci 170 (Efficient Algorithms and Intractable Problems) Project and Classwork
+## 12) CompSci 170 (Efficient Algorithms and Intractable Problems)
 **Final Project:**
 Built solver which attempted NP-Hard problem for placing placing penguins in igloos based efficiently based on exponential constraints. Algorithm features relaxed dynamic programming algorithm with knapsack-based approach that accounts for maximum profit at time t, and simulated annealing is applied to the DP solver's generated outputs to improve profit through randomly exploring permutations. 
 
@@ -382,8 +387,9 @@ Security: Hashing, Huffman Codes
 
 ---
 
-## 13) CompSci 160 (User Interface Design and Development) Projects
+## 13) CompSci 160 (User Interface Design and Development) 
 
+**Projects:**
 **(a) Auxilium:** Designed and built a community helping web app Auxilium which matches older people needing help and college students wanting to help. Supports chat, location sharing, and posting of blogs and tasks with a customizable home feed for users based on interest communities, skills, and location. Built using HTML, CSS, Django, Google Maps Location API, Websockets. 
 
 **(b) Repartee:** Designed and built reading app to help busy book-lovers schedule time to read free books, while interacting with others who share their same passion for reading. Repartee allows users to create communities for books and upload their favorite titles to the online library to share with other Reparteers for free on the Desktop app. Users can then search for and access their preferred titles by book and community on the Phone app, and set an in-app timer in minutes to read these books while chatting with other readers in the in-app chat room. Built using HTML, CSS, Django, Websockets. 
@@ -396,8 +402,9 @@ Security: Hashing, Huffman Codes
 
 ---
 
-## 14) CompSci 61B (Data Structures) Projects
+## 14) CompSci 61B (Data Structures)
 
+**Projects:**
 **(a) Gitlet:** Designed and created version-control system with a subset of Git’s features, including the init,add, commit, rm, log, status, branch, rm-branch. Implemented serialization to store and read objects, used all data structure knowledge to initialize directories, generate  files, update branches and versions through objects and classes for each command. 
 
 **(b) Enigma:** Replicated the WWII German encryption machine "Enigma" by building a generalized simulator that could handle numerous different descriptions of possible initial configurations of the machine and messages to encode or decode. Worked mostly with Java's String, HashMap, ArrayList, and Scanner data structures to handle string manipulation, data mapping required, and file reading for encryption.
@@ -408,8 +415,9 @@ Security: Hashing, Huffman Codes
 
 ---
 
-## 15) CompSci 61A (Structure and Interpretation of Computer Programs) Projects
+## 15) CompSci 61A (Structure and Interpretation of Computer Programs)
 
+**Projects:**
 **(a) Scheme Interpreter:** developed a Python interpreter for a subset of the Scheme language. After examining the design of our target language, built an interpreter with functions that read Scheme expressions, evaluate them, and display the results. Used all knowledge learned from CompSci 61a to apply to this final project. 
 
 **(b) Ants:** Replicated tower defense game Ants vs. Bees both GUI and command-line version. Used object-oriented programming to create, update gamestate, and move different ants and bee objects for ants to win the game with different classes, methods, attributes, objects, list comprehensions. Applied  abstraction, polymorphism, inheritance among other OOP concepts. 
@@ -433,4 +441,3 @@ has affected our environment. Used various statiscal inferences to detemine our 
 
 ---
 
-For viewing code from these above projects, labs and homework, please send me requests at sakshi.satpathy@berkeley.edu so that I know you are not a student in the class. 
