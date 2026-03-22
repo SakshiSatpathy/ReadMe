@@ -69,9 +69,11 @@ Select project descriptions:
 10) CompSci 161 (Computer Security)
 11) DES-INV 190-10 (Design and Cybersecurity)
 12) CompSci 170 (Efficient Algorithms and Intractable Problems)
-15) CompSci 160 (User Interface Design and Development)
-16) CompSci 61B (Data Structures) 
-17) CompSci 61A (Structure and Interpretation of Computer Programs) 
+13) CompSci 160 (User Interface Design and Development)
+14) CompSci 61B (Data Structures) 
+15) CompSci 61A (Structure and Interpretation of Computer Programs)
+16) ECON 140 (Economic Statistics and Econometrics)
+17) Statistics 20 (Introduction to Probability and Statistics)
 
 Selected Projects:
 
