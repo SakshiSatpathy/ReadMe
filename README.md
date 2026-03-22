@@ -1,6 +1,6 @@
-# (A) Computer Science Projects' Description 
+# Coding Projects' Description 
 
-Note: As of March 2026, there are 24 private repositories with coding projects. 
+Note: As of March 2026, there are 24 private repositories with coding projects in this Github account (SakshiSatpathy). 
 
 ----------------------------------------------------
 ## (A) Agentic AI Projects' Description:
@@ -16,8 +16,8 @@ Proj 4: Autonomous Financial Data Monitoring & Reporting Agent: Built  autonomou
 Proj 5: Autonomous Dataset Labeling Agent (Vision Foundation Models): Designed an autonomous data labeling system that converts raw, unlabeled image collections into structured, high-quality datasets using DINOv2 visual embeddings, HDBSCAN clustering, and a local LLaMA-based semantic labeling agent. Agent performs semantic grouping, cluster naming, label refinement, and quality validation, producing datasets in COCO format. Evaluated label coherence and cluster purity.
 
 ----------------------------------------------------
+## (B) Columbia University Coding Projects' Description:
 
-This Github (SakshiSatpathy) has private code from homework, labs and projects from the following Computer Vision and Computer Science graduate courses I have taken at Columbia:
 1) Deep Learning for Computer Vision
 2) Computer Graphics
 3) Computer Vision Research Topics
@@ -55,8 +55,8 @@ Select project descriptions:
 - Masked 3D face reconstruction using 3DMMs+GANs
 
 ----------------------------------------------------------------------------------------
+## (C) University of California, Berkeley Coding Projects' Description:
 
-This Github (SakshiSatpathy) has private code from homework, labs and projects from the following CS (Computer Science), EECS (Electrical Engineering and Computer Science), and DS (Data Science) classes I have taken at UC Berkeley: 
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
 3) CompSci 189 (Introduction to Machine Learning)
