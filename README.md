@@ -16,7 +16,7 @@ Proj 4: Autonomous Financial Data Monitoring & Reporting Agent: Built  autonomou
 Proj 5: Autonomous Dataset Labeling Agent (Vision Foundation Models): Designed an autonomous data labeling system that converts raw, unlabeled image collections into structured, high-quality datasets using DINOv2 visual embeddings, HDBSCAN clustering, and a local LLaMA-based semantic labeling agent. Agent performs semantic grouping, cluster naming, label refinement, and quality validation, producing datasets in COCO format. Evaluated label coherence and cluster purity.
 
 ----------------------------------------------------
-## (B) Columbia University Coding Projects' Description:
+## (B) Coding Projects from Columbia University:
 
 1) Deep Learning for Computer Vision
 2) Computer Graphics
@@ -55,7 +55,7 @@ Select project descriptions:
 - Masked 3D face reconstruction using 3DMMs+GANs
 
 ----------------------------------------------------------------------------------------
-## (C) University of California, Berkeley Coding Projects' Description:
+## (C) Coding Projects from University of California, Berkeley:
 
 1) CompSci 280 (Graduate Computer Vision)
 2) CompSci 182 (Designing, Visualizing and Understanding Deep Neural Networks)
